@@ -20,28 +20,6 @@ export default defineConfig({
       '@pages': path.resolve(projectDirectory, './src/pages'),
     },
   },
-  // ← ADD THIS SECTION ↓
-  optimizeDeps: {
-    esbuildOptions: {
-      define: {
-        global: 'globalThis',
-      },
-    },
-  },
-  build: {
-    rollupOptions: {
-      external: [
-        'node:crypto',
-        'node:fs',
-        'node:path',
-        'node:os',
-        'node:http',
-        'node:util',
-        'node:child_process',
-      ],
-    },
-  },
-  // ← ADD THIS SECTION ↑
   server: {
     port: 3000,
     open: true,
