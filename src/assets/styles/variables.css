@@ -1,0 +1,40 @@
+:root {
+  /* Background */
+  --bg: #0f0e0c;
+  --surface: #181714;
+  --surface-light: #2a2824;
+  
+  /* Brand */
+  --primary: #c9a84c;
+  --primary-dark: #8b7d3a;
+  --primary-dim: rgba(201, 168, 76, 0.1);
+  --primary-border: rgba(201, 168, 76, 0.3);
+  
+  /* Text */
+  --text-1: #f0ebe0;
+  --text-2: #9b9284;
+  --text-3: #5a554d;
+  
+  /* States */
+  --success: #7a9970;
+  --success-bg: rgba(122, 153, 112, 0.1);
+  
+  /* Border */
+  --border: rgba(255, 255, 255, 0.08);
+  --border-md: rgba(255, 255, 255, 0.14);
+  
+  /* Radius */
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+  
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+}

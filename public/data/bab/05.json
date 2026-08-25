@@ -1,0 +1,94 @@
+{
+  "id": 5,
+  "judul_ar": "فِي الِاخْتِلَافِ",
+  "judul_id": "Tentang Perbedaan Pendapat",
+  "paragraf": [
+    {
+      "id": "5-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه أبو الليث رضي الله تعالى عنه : تكلم الناس في مسألة اختلف العلماء فيها قال بعضهم : كلاهما صواب وهو قول المعتزلة، وقال بعضهم : أحدهما صواب والآخر خطأ، إلا أنه رفع عنه الإثم، وهذا القول أصح",
+      "terjemah": "Al-Faqih Abu Al-Laits radhiyallahu anhu berkata: Orang-orang berbicara tentang suatu masalah yang para ulama berselisih pendapat tentangnya. Sebagian mereka berkata: Keduanya benar, dan ini adalah pendapat Mu'tazilah. Dan sebagian berkata: Salah satunya benar dan yang lain salah, kecuali dosa diangkat darinya. Dan pendapat ini yang lebih shahih."
+    },
+    {
+      "id": "5-2",
+      "tipe": "hadits",
+      "teks_ar": "أمر بقطع نخيل بني النضير، فكان أبو ليلى المازني يقطع النخل العجوة وكان عبد الله بن سلام يقطع اللوز، فقيل لأبي ليلى : لم تقطع العجوة؟ قال: لأن فيه كبتاً للعدو، فقيل لعبد الله بن سلام : لم تقطع اللوز ؟ فقال : لأني أعلم أن النخيل تصير للنبي ﷺ فأريد أن تبقى له العجوة",
+      "rawi": "Abu Laila Al-Mazini dan Abdullah bin Salam",
+      "terjemah": "Nabi ﷺ memerintahkan memotong pohon kurma Bani Nadlir. Maka Abu Laila Al-Mazini memotong pohon kurma jenis 'Ajwah dan Abdullah bin Salam memotong pohon kurma jenis Lawz. Lalu ditanyakan kepada Abu Laila: Mengapa kamu memotong 'Ajwah? Dia menjawab: Karena di dalamnya ada pengasingan bagi musuh. Kemudian ditanyakan kepada Abdullah bin Salam: Mengapa kamu memotong Lawz? Dia menjawab: Karena aku tahu bahwa pohon kurma akan menjadi milik Nabi ﷺ, maka aku ingin kurma 'Ajwah tersisa untuknya."
+    },
+    {
+      "id": "5-3",
+      "tipe": "ayat",
+      "teks_ar": "مَا قَطَعْتُم مِّن لِينَةٍ أَوْ تَرَكْتُمُوهَا فَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ",
+      "referensi": "Al-Hashr: 5",
+      "terjemah": "Pohon-pohon yang kamu tebang atau kamu biarkan tetap berdiri di akar-akarnya, adalah dengan izin Allah dan untuk mengaibkan orang-orang yang fasik."
+    },
+    {
+      "id": "5-4",
+      "tipe": "matan",
+      "teks_ar": "فقد رضي الله تعالى بما فعل الفريقان جميعاً",
+      "terjemah": "Maka sesungguhnya Allah Ta'ala telah ridha dengan apa yang dilakukan kedua kelompok tersebut semuanya."
+    },
+    {
+      "id": "5-5",
+      "tipe": "hadits",
+      "teks_ar": "اقض بين هذين فقال : أقضي وأنت حاضر؟ فقال: نعم، قال: على ماذا أقضي ؟ قال : على إنك إن أصبت فلك عشر حسنات وإن أخطأت فلك أجر واحد",
+      "rawi": "Amr bin Al-Ash - dari Nabi ﷺ",
+      "terjemah": "Putuskanlah perkara antara dua orang ini. Lalu (Amr) berkata: Aku memutus padahal engkau hadir? Beliau menjawab: Ya. Dia berkata: Dengan apa aku memutus? Beliau menjawab: Sesungguhnya jika kamu tepat, engkau mendapatkan sepuluh kebaikan, dan jika kamu salah, engkau mendapatkan satu kebaikan."
+    },
+    {
+      "id": "5-6",
+      "tipe": "matan",
+      "teks_ar": "فقد بين النبي ﷺ أن المجتهد في اجتهاده قد يخطىء وقد يصيب",
+      "terjemah": "Maka sesungguhnya Nabi ﷺ telah menjelaskan bahwa seorang mujtahid dalam ijtihad mereka bisa salah dan bisa benar."
+    },
+    {
+      "id": "5-7",
+      "tipe": "ayat",
+      "teks_ar": "وَدَاوُدَ وَسُلَيْمَنَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ",
+      "referensi": "Al-Anbiya: 78",
+      "terjemah": "Dan (ingatlah) Dawud dan Sulaiman, ketika keduanya memberi keputusan tentang tanaman..."
+    },
+    {
+      "id": "5-8",
+      "tipe": "ayat",
+      "teks_ar": "فَفَهَمْتَهَا سُلَيْمَانُ",
+      "referensi": "Al-Anbiya: 79",
+      "terjemah": "Maka Sulaiman memahami perkara itu..."
+    },
+    {
+      "id": "5-9",
+      "tipe": "matan",
+      "teks_ar": "فمدح الله تعالى سليمان بأنه أدرك بفهمه ما لم يدرك به داود عليهما السلام، ولو كان كلا الحكمين صواباً في اجتهاد الرائي لكان لا يستوجب المدح بفهمه، ولو كان أحد القولين خطأ، فقد رفع الإثم عنه لأنه كان مأذوناً له بالاجتهاد",
+      "terjemah": "Maka Allah Ta'ala memuji Sulaiman karena dia memahami dengan pemahaman mereka apa yang tidak dipahami oleh Dawud alaihuma assalam. Seandainya kedua keputusan itu benar dalam ijtihad masing-masing orang yang melihat, maka tidak akan layak dipuji dengan pemahaman mereka. Dan seandainya salah satu pendapat itu salah, maka dosa telah diangkat darinya karena dia adalah orang yang diizinkan untuk berijtihad."
+    },
+    {
+      "id": "5-10",
+      "tipe": "atsar",
+      "teks_ar": "لا تقولوا الاختلاف ولكن قولوا السعة",
+      "rawi": "Musa Al-Jahni dari Talhah bin Matraf",
+      "terjemah": "Janganlah kalian mengatakan perbedaan pendapat, tetapi katakanlah keluasan (kelenturan)."
+    },
+    {
+      "id": "5-11",
+      "tipe": "atsar",
+      "teks_ar": "ما أحب أن يكون لي باختلاف أصحاب رسول الله ﷺ من حمر النعم",
+      "rawi": "Umar bin Abdul Aziz",
+      "terjemah": "Aku tidak menyukai bahwa diriku menerima imbalan dari perbedaan pendapat para sahabat Rasulullah ﷺ dengan harta benda yang paling berharga (maksudnya: perbedaan pendapat mereka lebih aku sukai daripada harta benda yang paling berharga)."
+    },
+    {
+      "id": "5-12",
+      "tipe": "matan",
+      "teks_ar": "يعني أن اختلافهم أحب إلي من حمر النعم لأنهم لو لم يختلفوا لكان لا يجوز لأحد بعدهم الاختلاف، وإذا لم يجز الاختلاف لضاق الأمر على الناس",
+      "terjemah": "Maksudnya bahwa perbedaan pendapat mereka lebih aku sukai daripada harta benda yang paling berharga, karena seandainya mereka tidak berselisih pendapat, maka tidak akan boleh bagi siapa pun setelah mereka untuk berselisih pendapat. Dan jika perbedaan pendapat tidak dibolehkan, maka perkara akan menjadi sempit bagi manusia."
+    },
+    {
+      "id": "5-13",
+      "tipe": "atsar",
+      "teks_ar": "اختلاف الصحابة كان رحمة للمسلمين",
+      "rawi": "Al-Qasim bin Muhammad",
+      "terjemah": "Perbedaan pendapat para sahabat adalah rahmat bagi kaum muslimin."
+    }
+  ],
+  "khulasah": "Bab kelima membahas tentang perbedaan pendapat di kalangan ulama dan hukum-hukumnya dalam Islam. Ada dua pendapat utama dalam menyikapi perbedaan: pertama, pandangan Mu'tazilah yang mengatakan bahwa kedua pendapat yang berlawanan sama-sama benar, kedua, pandangan mayoritas yang mengatakan bahwa salah satunya benar dan yang lain salah, namun dosa diangkat dari mujtahid yang salah karena dia berusaha dengan sepenuh kesungguhan. Dalil-dalil Qur'an dan Hadits serta praktik para sahabat menunjukkan bahwa perbedaan pendapat di kalangan ulama adalah sesuatu yang natural dan dibolehkan, bahkan merupakan rahmat bagi umat Islam. Perbedaan ini memberikan keluasan (flexibility) dalam menerapkan hukum sesuai kebutuhan masyarakat yang beragam, dan selama pendapat tersebut didasarkan pada ijtihad yang jujur, maka tidak ada dosa bagi mujtahid."
+}

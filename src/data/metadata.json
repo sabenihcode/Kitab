@@ -1,0 +1,41 @@
+{
+  "kitab": {
+    "judul_ar": "بُسْتَانُ الْعَارِفِيْن",
+    "judul_id": "Bustanul Arifin",
+    "pengarang": "Imam An-Nawawi",
+    "total_bab": 5,
+    "kategori": "Akhlak & Tasawuf"
+  },
+  "daftar_isi": [
+    {
+      "id": 1,
+      "judul_ar": "فِي طَلَبِ الْعِلْمِ",
+      "judul_id": "Tentang Menuntut Ilmu",
+      "tersedia": true
+    },
+    {
+      "id": 2,
+      "judul_ar": "فِي كِتَابَةِ الْعِلْمِ",
+      "judul_id": "Tentang Menulis Ilmu",
+      "tersedia": true
+    },
+    {
+      "id": 3,
+      "judul_ar": "فِي الْفَتْوَى",
+      "judul_id": "Tentang Memberikan Fatwa",
+      "tersedia": true
+    },
+    {
+      "id": 4,
+      "judul_ar": "فِيمَن يَجُوزُ لَهُ الْفَتْوَى",
+      "judul_id": "Tentang Siapa yang Boleh Memberikan Fatwa",
+      "tersedia": true
+    },
+    {
+      "id": 5,
+      "judul_ar": "فِي الِاخْتِلَافِ",
+      "judul_id": "Tentang Perbedaan Pendapat",
+      "tersedia": true
+    }
+  ]
+}

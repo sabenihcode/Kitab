@@ -1,0 +1,108 @@
+{
+  "id": 3,
+  "judul_ar": "فِي الْفَتْوَى",
+  "judul_id": "Tentang Memberikan Fatwa",
+  "paragraf": [
+    {
+      "id": "3-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه الزاهد أبو الليث رحمه الله : كره بعض الناس الفتوى، وأجازها عامة أهل العلم، إذا كان الرجل ممن يصلح لذلك",
+      "terjemah": "Al-Faqih Al-Zahid Abu Al-Laits rahimahullah berkata: Sebagian orang membenci memberikan fatwa, dan kebanyakan ahli ilmu membolehkannya, jika lelaki tersebut termasuk orang yang layak untuk itu."
+    },
+    {
+      "id": "3-2",
+      "tipe": "hadits",
+      "teks_ar": "أجرؤُكُمْ على النار أجرؤكم على الفتوى",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Paling berani kalian terhadap api neraka adalah paling berani kalian dalam memberikan fatwa."
+    },
+    {
+      "id": "3-3",
+      "tipe": "atsar",
+      "teks_ar": "هذا خير لكم وشر لي",
+      "rawi": "Salman Al-Farisi",
+      "terjemah": "Ini lebih baik untuk kalian dan lebih buruk untuk saya (ketika diminta fatwa)."
+    },
+    {
+      "id": "3-4",
+      "tipe": "atsar",
+      "teks_ar": "أدركت مائة وعشرين من أصحاب رسول الله ﷺ فما كان منهم محدث إلا ود أن أخاه كفاه الحديث ولا مفت إلا ود أن أخاه كفاه الفتوى",
+      "rawi": "Abdul Rahman bin Abi Laila",
+      "terjemah": "Aku telah menemui seratus dua puluh orang dari para sahabat Rasulullah ﷺ. Tidak ada satupun dari mereka yang meriwayatkan hadits melainkan ingin saudaranya yang menggantikan tugasnya meriwayatkan hadits, dan tidak ada satupun yang memberikan fatwa melainkan ingin saudaranya yang menggantikan tugasnya memberikan fatwa."
+    },
+    {
+      "id": "3-5",
+      "tipe": "atsar",
+      "teks_ar": "إنما يفتي الناس أحد ثلاثة، من يعلم ما نسخ من القرآن، أو أمير لا يجد بداً من ذلك، أو أحمق متكلف",
+      "rawi": "Hudzaifah bin Al-Yaman melalui Ibnu Sireen",
+      "terjemah": "Hanya tiga jenis orang yang memberikan fatwa kepada manusia: orang yang mengetahui apa yang telah dinasakh dari Al-Quran, atau pemimpin yang tidak menemukan cara lain, atau orang bodoh yang memaksakan diri."
+    },
+    {
+      "id": "3-6",
+      "tipe": "atsar",
+      "teks_ar": "لست بأحد هذين وأكره أن أكون الثالث",
+      "rawi": "Ibnu Sireen",
+      "terjemah": "Aku bukan salah satu dari keduanya dan aku membenci menjadi yang ketiga (orang bodoh)."
+    },
+    {
+      "id": "3-7",
+      "tipe": "hadits",
+      "teks_ar": "كنا عند النبي ﷺ فقام رجل فقال : أنشدك الله اقض بيننا بكتاب الله تعالى . فقام خصمه وكان أفقه منه فقال: صدق بعض بيننا بكتاب الله تعالى وأذن لي فأقول، فأذن له عليه الصلاة والسلام فقال : إن ابني هذا كان عسفاً على هذا الرجل، وإنه زنى بامرأته فافتديت منه بمائة شاة وخادم، ثم سألت رجالاً من أهل العلم فأخبروني أن على أبيك جلد مائة وتغريب عام، وعلى امرأته الرجم",
+      "rawi": "Abu Hurairah, Zaid bin Khalid, Syubl bin Ma'bad",
+      "terjemah": "Kami berada di sisi Nabi ﷺ. Lalu seorang lelaki berdiri dan berkata: Aku menghindap kepada Allah, putuskanlah antara kami dengan Kitab Allah Ta'ala. Maka lawannya berdiri, dan dia lebih alim darinya, lalu berkata: Yang benar apa kataku, putuskanlah antara kami dengan Kitab Allah Ta'ala, dan izinkan aku berbicara. Maka Nabi ﷺ memberikan izin kepadanya. Dia berkata: Anakku ini menzalimi lelaki ini, dan dia telah berzina dengan istrinya, maka aku menebus kesalahan darinya dengan seratus ekor kambing dan seorang pelayan. Kemudian aku bertanya kepada sekelompok ahli ilmu, dan mereka memberitahuku bahwa atas ayahmu hukuman seratus cambukan dan pengasingan satu tahun, dan atas istrimu hukuman rajam."
+    },
+    {
+      "id": "3-8",
+      "tipe": "matan",
+      "teks_ar": "في هذا الحديث دليل على جواز الفتوى لأنه قال: سألت رجالاً من أهل العلم، فأخبروني، فلم ينكر عليهم رسول الله ﷺ فتواهم",
+      "terjemah": "Dalam hadits ini ada dalil atas dibolehkannya memberikan fatwa, karena dia berkata: Aku bertanya kepada sekelompok ahli ilmu, dan mereka memberitahuku. Maka Rasulullah ﷺ tidak mengingkari fatwa mereka."
+    },
+    {
+      "id": "3-9",
+      "tipe": "matan",
+      "teks_ar": "وفي الخبر أيضاً دليل على أن الفتوى تجوز وإن كان غيره أعلم منه، ألا ترى أنهم كانوا يفتون في زمان النبي",
+      "terjemah": "Dan dalam berita tersebut juga ada dalil bahwa fatwa dibolehkan meskipun ada orang lain yang lebih alim darinya. Tidakkah engkau lihat bahwa mereka (sahabat) memberikan fatwa pada zaman Nabi?"
+    },
+    {
+      "id": "3-10",
+      "tipe": "hadits",
+      "teks_ar": "سئل عن محرم كسر بيض نعامة، فأمره علي بكل بيضة أن ينحر ولد ناقة، فجاء السائل إلى النبي ﷺ فأخبره بذلك فقال له رسول الله ﷺ : قد قال لك علي ما سمعت ولكن هلم إلى الرخصة فعليك بكل بيضة إطعام مسكين",
+      "rawi": "Ali bin Abi Thalib",
+      "terjemah": "Ditanyakan kepada Ali tentang orang yang sedang ihram yang memecahkan telur burung unta. Maka Ali memerintahkannya untuk setiap telur menyembelih anak unta. Lalu penanya datang kepada Nabi ﷺ dan memberitahunya. Maka Rasulullah ﷺ bersabda: Ali telah mengatakan kepada kalian apa yang aku dengar, tetapi marilah ke keringanan, maka bagi kalian setiap telur memberi makan seorang miskin."
+    },
+    {
+      "id": "3-11",
+      "tipe": "hadits",
+      "teks_ar": "سئل بالبحرين عن حلال إذا ذبح صيداً فأكله محرم، قال: يجوز، فلما رجع أبو هريرة إلى عمر أخبره بذلك فقال عمر : لو قلت غير هذا لفعلت كذا وكذا",
+      "rawi": "Abu Hurairah",
+      "terjemah": "Ditanyakan di Bahrain tentang seorang yang halal (tidak ihram) menyembelih binatang buruan lalu seorang yang ihram memakannya, dia berkata: Dibolehkan. Ketika Abu Hurairah kembali kepada Umar dan memberitahunya, Umar berkata: Seandainya engkau mengatakan selain ini, aku akan melakukan begini dan begitu."
+    },
+    {
+      "id": "3-12",
+      "tipe": "matan",
+      "teks_ar": "ولأن الصحابة كانوا يفتون في الحوادث، وهكذا توارث المسلمون",
+      "terjemah": "Dan karena para sahabat memberikan fatwa dalam berbagai peristiwa (masalah baru), dan demikianlah umat Islam telah saling mewarisi tradisi ini."
+    },
+    {
+      "id": "3-13",
+      "tipe": "ayat",
+      "teks_ar": "فَسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+      "referensi": "An-Nahl: 43",
+      "terjemah": "Maka bertanyalah kepada orang yang berilmu jika kalian tidak mengetahui."
+    },
+    {
+      "id": "3-14",
+      "tipe": "matan",
+      "teks_ar": "فلما أمر الله تبارك وتعالى الجهال بأن يسألوا العلماء، فقد أمر العلماء بأن يخبروهم إذا سألوهم عن ذلك",
+      "terjemah": "Karena ketika Allah Ta'ala memerintahkan orang yang bodoh untuk bertanya kepada para ahli ilmu, maka sesungguhnya Allah telah memerintahkan para ahli ilmu untuk memberitahu mereka ketika mereka bertanya tentang hal itu."
+    },
+    {
+      "id": "3-15",
+      "tipe": "atsar",
+      "teks_ar": "حكي أن جماعة اختاروا من العقلاء ثلاثة ليذكروا من أعقل فاجتمع رأيهم أعقل الناس من يقول ما يعلم",
+      "rawi": "Perkataan para ahli",
+      "terjemah": "Diceritakan bahwa sekelompok orang memilih dari orang-orang yang berakal tiga orang untuk disebutkan siapa yang paling berakal. Maka kesimpulan mereka adalah bahwa orang paling berakal adalah orang yang mengatakan apa yang ia ketahui (dan tidak mengatakan yang tidak diketahuinya)."
+    }
+  ],
+  "khulasah": "Bab ketiga membahas perbedaan pendapat tentang hukum memberikan fatwa dalam Islam. Kelompok yang melarang memberikan fatwa beralasan dengan hadits yang menunjukkan betapa berat tanggung jawab memberikan fatwa dan banyak dari para sahabat yang tidak menyukai hal tersebut. Namun mayoritas ulama membolehkan pemberian fatwa jika dilakukan oleh orang yang memenuhi syarat keilmuan yang diperlukan. Mereka mendalilkan dengan praktik para sahabat yang memberikan fatwa pada zaman Nabi ﷺ tanpa mendapat keberatan darinya. Dalil dari Al-Quran juga menunjukkan perintah kepada yang tidak tahu untuk bertanya kepada ahli ilmu, yang secara implisit mengharuskan para ahli ilmu untuk menjawab pertanyaan tersebut. Dengan demikian, pemberian fatwa adalah suatu keharusan dalam agama Islam untuk menjawab permasalahan umat."
+}

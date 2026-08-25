@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "judul_ar": "فِيمَن يَجُوزُ لَهُ الْفَتْوَى",
+  "judul_id": "Tentang Siapa yang Boleh Memberikan Fatwa",
+  "paragraf": [
+    {
+      "id": "4-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه أبو الليث رحمه الله : لا ينبغي لأحد أن يفتي إلا أن يعرف أقاويل العلماء، يعني أبا حنيفة وصاحبيه، ويعلم من أين قالوا ويعرف معاملات الناس",
+      "terjemah": "Al-Faqih Abu Al-Laits rahimahullah berkata: Tidak seharusnya seseorang memberikan fatwa kecuali dia mengetahui pendapat-pendapat para ulama, yakni Abu Hanifah dan kedua sahabatnya, dan mengetahui dari mana mereka mengatakan hal tersebut, serta mengerti tentang praktik-praktik kehidupan masyarakat."
+    },
+    {
+      "id": "4-2",
+      "tipe": "matan",
+      "teks_ar": "فإن من عرف أقاويل العلماء، ولم يعرف معاملات الناس ومذاهبهم، فإن سئل عن مسألة يعلم أن العلماء الذين ينتحل مذهبهم قد اتفقوا عليها ، فلا بأس بأن يقول : هذا جائز وهذا لا يجوز، ويكون قوله على سبيل الحكاية",
+      "terjemah": "Karena barangsiapa mengetahui pendapat-pendapat para ulama tetapi tidak mengerti praktik-praktik masyarakat dan kebiasaan mereka, maka jika dia ditanya tentang suatu masalah yang diketahuinya bahwa para ulama yang mengikuti mazhab mereka telah bersepakat atasnya, maka tidak mengapa baginya mengatakan: Ini dibolehkan dan ini tidak dibolehkan, dan perkataannya adalah berdasarkan periwayatan."
+    },
+    {
+      "id": "4-3",
+      "tipe": "matan",
+      "teks_ar": "وإن كانت مسألة قد اختلفوا فيها فلا بأس بأن يقول : هذا جائز في قول فلان ولا يجوز في قول فلان، ولا يجوز له أن يختار قولاً ، فيجيب بقول بعضهم ما لم يعرف حجته",
+      "terjemah": "Dan jika masalahnya adalah masalah yang mereka (ulama) berselisih pendapat tentangnya, maka tidak mengapa baginya mengatakan: Ini dibolehkan menurut pendapat si fulan dan tidak dibolehkan menurut pendapat si fulan. Tetapi tidak boleh baginya memilih satu pendapat, lalu menjawab dengan pendapat salah seorang dari mereka selama dia belum mengerti hujjahnya (dalilnya)."
+    },
+    {
+      "id": "4-4",
+      "tipe": "atsar",
+      "teks_ar": "كنت في مأتم فاجتمع فيه أربعة من أصحاب أبي حنيفة، منهم زفر بن الهذيل، وأبو يوسف، وعافية بن يزيد، والحسن بن زياد، فكلهم أجمعوا أنه لا يحل لأحد أن يفتي بقولنا ما لم يعلم من أين قلنا",
+      "rawi": "Issam bin Yusuf",
+      "terjemah": "Aku berada di suatu tempat berduka cita di mana berkumpul empat orang dari sahabat-sahabat Abu Hanifah, di antaranya Zufar bin Al-Hudail, Abu Yusuf, Iffiyah bin Yazid, dan Al-Hasan bin Ziyad. Mereka semua bersepakat bahwa tidak boleh bagi seseorang memberikan fatwa dengan pendapat kami selama dia belum mengetahui dari mana kami mengatakan hal itu."
+    },
+    {
+      "id": "4-5",
+      "tipe": "hadits",
+      "teks_ar": "لا يحل لأحد أن يفتي بقولنا ما لم يعلم من أين قلنا",
+      "rawi": "Abu Hanifah - diriwayatkan oleh Ibrahim bin Yusuf melalui Abu Yusuf",
+      "terjemah": "Tidak boleh bagi seseorang memberikan fatwa dengan pendapat kami selama dia belum mengetahui dari mana kami mengatakan hal itu."
+    },
+    {
+      "id": "4-6",
+      "tipe": "atsar",
+      "teks_ar": "إن أبا حنيفة قد أوتي من الفهم ما لم نؤت، فأدرك بفهمه ما لم ندركه، ونحن لم نؤت من الفهم إلا ما أوتينا ولا يسعنا أن نفتي بقوله ما لم نفهم من أين قال",
+      "rawi": "Issam bin Yusuf - merespons kritik tentang perbedaannya dengan Abu Hanifah",
+      "terjemah": "Sesungguhnya Abu Hanifah telah diberi pemahaman yang tidak diberikan kepada kami, sehingga dengan pemahaman itu dia mencapai apa yang tidak kami capai. Adapun kami tidak diberi pemahaman melainkan semata apa yang telah diberikan kepada kami, dan tidak mungkin bagi kami memberikan fatwa dengan pendapatnya selama kami belum memahami dari mana dia mengatakan hal itu."
+    },
+    {
+      "id": "4-7",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه رحمه الله : ينبغي لمن جعل نفسه مفتياً أو تولى شيئاً من أمور المسلمين وجعل وجه الناس إليه أن لا يردهم قبل أن يقضي حوائجهم، إلا من عذر، ويستعمل الرفق والحلم",
+      "terjemah": "Al-Faqih rahimahullah berkata: Seharusnya bagi orang yang menjadikan dirinya seorang mufti atau mengurus suatu hal dari urusan-urusan kaum muslimin dan orang-orang menghadap kepadanya, bahwa dia tidak boleh menolak mereka sebelum dia memenuhi kebutuhan-kebutuhan mereka, kecuali karena alasan yang sah, dan dia menggunakan kelembutan dan kesabaran."
+    },
+    {
+      "id": "4-8",
+      "tipe": "hadits",
+      "teks_ar": "من ولى من أمور المسلمين شيئاً واحتجب دون خلتهم يوم حاجتهم وفاقتهم احتجب الله تعالى يوم القيامة دون خلته وفاقته وحاجته",
+      "rawi": "Al-Qasim bin Muhammad dari Ibnu Abi Maryam - yang memiliki sahabat dengan para sahabat Nabi",
+      "terjemah": "Barangsiapa mengurus suatu hal dari urusan kaum muslimin lalu bersembunyi dari kebutuhan-kebutuhan dan kekurangan-kekurangan mereka di hari kebutuhan dan kekurangan mereka, niscaya Allah Ta'ala akan bersembunyi dari kebutuhan-kebutuhan, kekurangan-kekurangan, dan keperluan-keperluan orang itu di hari Kiamat."
+    },
+    {
+      "id": "4-9",
+      "tipe": "matan",
+      "teks_ar": "وينبغي للمفتي أن يكون متواضعاً ليناً ولا يكون جباراً عنيداً، ولا فظاً غليظاً",
+      "terjemah": "Dan seharusnya bagi mufti untuk bersikap rendah hati, lembut, dan tidak boleh sombong dan keras kepala, serta tidak boleh kasar dan berhati keras."
+    },
+    {
+      "id": "4-10",
+      "tipe": "ayat",
+      "teks_ar": "فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ",
+      "referensi": "Ali Imran: 159",
+      "terjemah": "Maka dengan rahmat dari Allah engkau berlaku lembut kepada mereka. Seandainya engkau bersikap kasar dan berhati keras, tentulah mereka akan menjauh dari sekelilingmu."
+    }
+  ],
+  "khulasah": "Bab keempat membahas syarat dan persyaratan bagi seseorang yang ingin memberikan fatwa. Seorang mufti harus memahami tidak hanya pendapat-pendapat para ulama, tetapi juga dalil-dalil di balik pendapat-pendapat tersebut sehingga dia tidak hanya menghafal tetapi memahami akar masalahnya. Dia juga harus memahami praktik-praktik kehidupan masyarakat agar fatwa yang diberikannya relevan dan dapat diterapkan. Dalam memberikan fatwa tentang masalah yang diperselisihkan, mufti harus mengutarakan berbagai pendapat dengan jelas, bukan memilih satu pendapat tanpa memahami hujjahnya. Selain itu, seorang mufti harus bersikap tawadhu' (rendah hati), lembut, dan dapat melayani masyarakat dengan baik. Dia harus terbuka dan tidak bersembunyi dari kebutuhan-kebutuhan masyarakat. Sifat-sifat ini diperlukan agar fatwa dapat diterima dan bermanfaat bagi umat."
+}

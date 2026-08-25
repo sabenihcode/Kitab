@@ -1,0 +1,161 @@
+{
+  "id": 1,
+  "judul_ar": "فِي طَلَبِ الْعِلْمِ",
+  "judul_id": "Tentang Menuntut Ilmu",
+
+  "paragraf": [
+    {
+      "id": "1-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه رحمه الله : اعلم أن طلب العلم فريضة على كل مسلم ومسلمة على قدر ما يحتاج إليه لأمر دينه مما لا بد له من أحكام الوضوء والصلاة وسائر الشرائع، ولأمور معاشه، وما وراء ذلك ليس بفرض خاص، فإن تعلم الزيادة فهو أفضل وإن تركه فلا إثم عليه",
+      "terjemah": "Al-Faqih rahimahullah berkata: Ketahuilah bahwa menuntut ilmu itu fardhu atas setiap muslim laki-laki dan muslimah sesuai kadar yang ia butuhkan untuk urusan agamanya yaitu hal-hal yang tidak bisa tidak harus ia ketahui, seperti hukum-hukum wudhu, shalat, dan syariat-syariat lainnya, serta untuk urusan penghidupannya. Adapun selain itu, hukumnya bukan fardhu khusus. Jika ia mempelajari ilmu tambahan maka itu lebih utama, dan jika ia meninggalkannya maka tidak ada dosa baginya."
+    },
+    {
+      "id": "1-2",
+      "tipe": "ayat",
+      "teks_ar": "فَسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+      "referensi": "An-Nahl: 43",
+      "terjemah": "Maka bertanyalah kepada orang yang berilmu jika kamu tidak mengetahui."
+    },
+    {
+      "id": "1-3",
+      "tipe": "ayat",
+      "teks_ar": "وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ",
+      "referensi": "Al-Mulk: 10",
+      "terjemah": "Dan mereka berkata: Sekiranya kami mendengarkan atau memikirkan, tentulah kami tidak termasuk penghuni neraka yang menyala-nyala. Maka Allah mengabarkan bahwa mereka menjadi penghuni neraka karena kebodohan mereka."
+    },
+    {
+      "id": "1-4",
+      "tipe": "hadits",
+      "teks_ar": "طَلَبُ الْعِلْمِ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
+      "rawi": "Makhul dari Ali bin Abi Thalib",
+      "terjemah": "Menuntut ilmu itu fardhu atas setiap muslim dan muslimah."
+    },
+    {
+      "id": "1-5",
+      "tipe": "hadits",
+      "teks_ar": "اُطْلُبُوا الْعِلْمَ وَلَوْ بِالصِّيْنِ فَإِنَّ الْعِلْمَ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
+      "rawi": "Riwayat lain dari Nabi ﷺ",
+      "terjemah": "Tuntutlah ilmu walau ke negeri Cina, karena sesungguhnya menuntut ilmu itu fardhu atas setiap muslim dan muslimah."
+    },
+    {
+      "id": "1-6",
+      "tipe": "atsar",
+      "teks_ar": "عليكم بالعلم قبل أن يقبض وقبضه أن يذهب أصحابه، وعليكم بالعلم فإن أحدكم لا يدري متى يفتقر إليه",
+      "rawi": "Abdullah bin Mas'ud",
+      "terjemah": "Wajib atas kalian menuntut ilmu sebelum ilmu itu diangkat. Dan diangkatnya ilmu adalah dengan wafatnya para ulamanya. Wajib atas kalian menuntut ilmu, karena sesungguhnya salah seorang di antara kalian tidak tahu kapan ia akan membutuhkannya."
+    },
+    {
+      "id": "1-7",
+      "tipe": "matan",
+      "teks_ar": "ثم تكلم الناس في طلب الزيادة، قال بعضهم : إذا تعلم من العلم مقدار ما يحتاج إليه ينبغي أن يشتغل بالعمل به، ويترك التعلم",
+      "terjemah": "Kemudian para ulama berbeda pendapat tentang menuntut ilmu tambahan. Kelompok pertama berkata: jika seseorang sudah mempelajari kadar ilmu yang ia butuhkan, maka hendaknya ia sibuk mengamalkannya dan meninggalkan belajar lagi."
+    },
+    {
+      "id": "1-8",
+      "tipe": "matan",
+      "teks_ar": "وقال بعض الناس : إذا اشتغل بزيادة العلم فهو أفضل بعد أن لا يدخل النقصان في فرائضه، وهذا القول أصح",
+      "terjemah": "Kelompok kedua berkata: jika ia sibuk dengan ilmu tambahan maka itu lebih utama, selama tidak sampai mengurangi kewajiban-kewajibannya. Dan pendapat ini yang lebih shahih."
+    },
+    {
+      "id": "1-9",
+      "tipe": "hadits",
+      "teks_ar": "ويل للذي لا يعلم مرة، وويل للذي يعلم ولا يعمل به سبع مرات",
+      "rawi": "Abu Darda'",
+      "terjemah": "Celaka bagi orang yang tidak berilmu sekali. Dan celaka 7 kali bagi orang yang berilmu tapi tidak mengamalkannya."
+    },
+    {
+      "id": "1-10",
+      "tipe": "atsar",
+      "teks_ar": "من عمل بما يعلم شغله الله تعالى عما لا يعلم",
+      "rawi": "Fudhail bin Iyadh",
+      "terjemah": "Barangsiapa mengamalkan apa yang ia ketahui, maka Allah akan menyibukkannya dengan apa yang tidak ia ketahui."
+    },
+    {
+      "id": "1-11",
+      "tipe": "ayat",
+      "teks_ar": "فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّيْنِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ",
+      "referensi": "At-Taubah: 122",
+      "terjemah": "Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya."
+    },
+    {
+      "id": "1-12",
+      "tipe": "ayat",
+      "teks_ar": "قُلْ هَلْ يَسْتَوِي الَّذِيْنَ يَعْلَمُوْنَ وَالَّذِيْنَ لَا يَعْلَمُوْنَ",
+      "referensi": "Az-Zumar: 9",
+      "terjemah": "Katakanlah: Adakah sama orang-orang yang mengetahui dengan orang-orang yang tidak mengetahui?"
+    },
+    {
+      "id": "1-13",
+      "tipe": "ayat",
+      "teks_ar": "وَلَكِنْ كُوْنُوا رَبَّانِيِّيْنَ بِمَا كُنْتُمْ تُعَلِّمُوْنَ الْكِتَابَ",
+      "referensi": "Ali Imran: 79",
+      "terjemah": "Tetapi jadilah kamu orang-orang rabbani karena kamu selalu mengajarkan kitab. Para ahli tafsir berkata: Maksudnya jadilah kalian fuqaha' dan ulama."
+    },
+    {
+      "id": "1-14",
+      "tipe": "hadits",
+      "teks_ar": "فَضْلُ الْعِلْمِ خَيْرٌ مِنَ الْعَمَلِ وَمِلَاكُ دِيْنِكُمُ الْوَرَعُ",
+      "rawi": "Tsauban dari Nabi ﷺ",
+      "terjemah": "Keutamaan ilmu lebih baik daripada amal, dan pokok agama kalian adalah wara'."
+    },
+    {
+      "id": "1-15",
+      "tipe": "atsar",
+      "teks_ar": "من العمل أن يتعلم الرجل العلم فيعلمه الناس",
+      "rawi": "Al-Hasan Al-Bashri",
+      "terjemah": "Termasuk amal adalah seseorang mempelajari ilmu lalu mengajarkannya kepada orang lain."
+    },
+    {
+      "id": "1-16",
+      "tipe": "atsar",
+      "teks_ar": "تذاكر العلم ساعة من الليلة أحب إلى الله من إحيائها",
+      "rawi": "Abdullah bin Abbas",
+      "terjemah": "Bermudzakarah/mengulang ilmu selama satu jam di malam hari lebih dicintai Allah daripada menghidupkan malam itu dengan ibadah."
+    },
+    {
+      "id": "1-17",
+      "tipe": "atsar",
+      "teks_ar": "إنك إن تتوسد بالعلم خير لك من أن تتوسد بالجهل",
+      "rawi": "Abu Dzar Al-Ghifari",
+      "terjemah": "Sesungguhnya engkau berbantalkan ilmu itu lebih baik bagimu daripada berbantalkan kebodohan."
+    },
+    {
+      "id": "1-18",
+      "tipe": "atsar",
+      "teks_ar": "إن الناس يبعثون من قبورهم على ما ماتوا عليه، العالم عالماً والجاهل جاهلاً",
+      "rawi": "Abu Darda'",
+      "terjemah": "Sesungguhnya manusia akan dibangkitkan dari kubur mereka sesuai keadaan ketika mereka mati: orang alim dalam keadaan alim, dan orang bodoh dalam keadaan bodoh."
+    },
+    {
+      "id": "1-19",
+      "tipe": "atsar",
+      "teks_ar": "الناس رجلان عالم رباني ومتعلم على سبيل النجاة وسائرهم همج رعاع أتباع كل ناعق يميلون مع كل ريح",
+      "rawi": "Ali bin Abi Thalib",
+      "terjemah": "Manusia itu ada 2 golongan: Ulama Rabbani dan pelajar yang berada di jalan keselamatan. Adapun selain keduanya adalah orang-orang bodoh, pengikut setiap orang yang berteriak, condong ke arah mana pun angin bertiup."
+    },
+    {
+      "id": "1-20",
+      "tipe": "hadits",
+      "teks_ar": "خير الناس من ينفع الناس",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia."
+    },
+    {
+      "id": "1-21",
+      "tipe": "hadits",
+      "teks_ar": "هل يقبل الله الأعمال إلا بالعلم",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Apakah Allah menerima amal-amal kecuali dengan ilmu?"
+    },
+    {
+      "id": "1-22",
+      "tipe": "hadits",
+      "teks_ar": "إنَّ أفضل ما يتصدق به العبد أن يتعلم العلم ثم يُعلمه غيره",
+      "rawi": "Rasulullah ﷺ",
+      "terjemah": "Sesungguhnya sedekah yang paling utama yang dilakukan seorang hamba adalah ia mempelajari ilmu kemudian mengajarkannya kepada orang lain."
+    }
+  ],
+
+  "khulasah": "Bab pertama membahas urgensi dan kewajiban menuntut ilmu dalam Islam. Menuntut ilmu dibagi menjadi dua kategori: ilmu fardhu ain (wajib individual) yang mencakup pengetahuan minimal untuk menjalankan ibadah dan muamalah, dan ilmu tambahan yang hukumnya sunnah muakkadah. Para ulama sepakat bahwa menyibukkan diri menuntut ilmu lebih utama daripada ibadah sunnah semata, karena manfaat ilmu meluas ke masyarakat luas, bukan hanya untuk pelakunya sendiri. Ilmu adalah pemimpin amal, dan amal tanpa ilmu tidak akan diterima."
+}
