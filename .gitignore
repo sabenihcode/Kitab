@@ -1,0 +1,155 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+.env*.pem
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Build Output
+dist/
+dist-ssr/
+*.local
+build/
+out/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# VS Code
+.history/
+.vscode-test/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# WebStorm
+.WebStorm*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.dSYM/
+.AppleDesktop
+ehthumbs.db
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+.directory
+.Trash-*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+npm-error.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.bak
+*.swp
+*.swo
+*~
+.cache/
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.cache/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# Cloudflare Wrangler
+.wrangler/
+wrangler.toml.bak
+
+# Local Netlify folder
+.netlify
+
+# Vercel
+.vercel
+
+# Yarn
+yarn-error.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# PNPM
+.pnpm-store/
+
+# Project specific
+/public/data/bab/*.json
+!public/data/bab/01.json
+!public/data/bab/02.json
+!public/data/bab/03.json
+!public/data/bab/04.json
+!public/data/bab/05.json
+!public/data/metadata.json
+
+# API Keys & Secrets
+*.key
+*.pem
+secrets/
+.secrets
+private/
