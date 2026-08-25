@@ -14,8 +14,7 @@
     "react-router-dom": "^6.30.6",
     "cohere-ai": "^7.21.0",
     "clsx": "^2.1.1",
-    "dompurify": "^3.4.14",
-    "marked": "^18.0.11"
+    "dompurify": "^3.4.14"
   },
   "devDependencies": {
     "@types/react": "^18.3.31",
