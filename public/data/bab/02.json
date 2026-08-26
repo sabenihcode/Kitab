@@ -1,159 +1,144 @@
 {
   "id": 2,
-  "judul_ar": "بَابُ طَلَبِ الْعِلْمِ",
-  "judul_id": "Bab Menuntut Ilmu",
+  "judul_ar": "فِي كِتَابَةِ الْعِلْمِ",
+  "judul_id": "Tentang Menulis Ilmu",
   "paragraf": [
     {
       "id": "2-1",
       "tipe": "matan",
-      "teks_ar": "قال الفقيه رحمه الله : اعلم أن طلب العلم فريضة على كل مسلم ومسلمة على قدر ما يحتاج إليه لأمر دينه مما لا بد له من أحكام الوضوء والصلاة وسائر الشرائع، ولأمور معاشه، وما وراء ذلك ليس بفرض خاص، فإن تعلم الزيادة فهو أفضل وإن تركه فلا إثم عليه",
-      "terjemah": "Al-Faqih rahimahullah berkata: Ketahuilah bahwa menuntut ilmu itu fardhu atas setiap muslim laki-laki dan muslimah sesuai kadar yang ia butuhkan untuk urusan agamanya — yaitu hal-hal yang tidak bisa tidak harus ia ketahui, seperti hukum-hukum wudhu, shalat, dan syariat-syariat lainnya, serta untuk urusan penghidupannya. Adapun selain itu, hukumnya bukan fardhu khusus. Jika ia mempelajari ilmu tambahan maka itu lebih utama, dan jika ia meninggalkannya maka tidak ada dosa baginya."
+      "teks_ar": "قال الفقيه رضي الله تعالى عنه : كره بعض الناس كتابة العلم، وأباح ذلك عامة أهل العلم",
+      "terjemah": "Al-Faqih radhiyallahu anhu berkata: Sebagian orang membenci menulis ilmu, dan kebanyakan ahli ilmu membolehkannya."
     },
     {
       "id": "2-2",
-      "tipe": "ayat",
-      "teks_ar": "فَسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
-      "referensi": "An-Nahl: 43",
-      "terjemah": "Maka bertanyalah kepada orang yang berilmu jika kamu tidak mengetahui."
+      "tipe": "hadits",
+      "teks_ar": "يا رسول الله إن ناساً من اليهود والنصارى يحدثون بأحاديث أفلا نكتب بعضها ؟ فنظر إليه نظرة عرف بها الغضب في وجهه قال: أمتهوكون أنتم كما تهوكت اليهود والنصارى؟ لقد جئتكم ببيضاء نقية ولو كان موسى حياً ما وسعه إلا اتباعي",
+      "rawi": "Al-Hasan Al-Bashri dari Umar bin Khattab",
+      "terjemah": "Wahai Rasulullah, sesungguhnya ada beberapa orang dari Yahudi dan Nasrani yang menceritakan hadits-hadits. Apakah boleh kami menulis sebagian darinya? Maka Nabi memandang beliau dengan pandangan yang menunjukkan marah di wajahnya, lalu bersabda: Apakah kalian bingung seperti bingungnya Yahudi dan Nasrani? Sungguh aku telah datang kepada kalian dengan ajaran yang putih bersih. Seandainya Musa hidup, tidak ada pilihan baginya kecuali mengikuti aku."
     },
     {
       "id": "2-3",
-      "tipe": "ayat",
-      "teks_ar": "وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ",
-      "referensi": "Al-Mulk: 10",
-      "terjemah": "Dan mereka berkata: Sekiranya kami mendengarkan atau memikirkan, tentulah kami tidak termasuk penghuni neraka yang menyala-nyala. Maka Allah mengabarkan bahwa mereka menjadi penghuni neraka karena kebodohan mereka."
+      "tipe": "atsar",
+      "teks_ar": "ما المتهوكون؟ قال: المتحيرون",
+      "rawi": "Al-Hasan Al-Bashri",
+      "terjemah": "Apa itu al-mutahawwikun? Ia menjawab: Orang-orang yang bingung."
     },
     {
       "id": "2-4",
       "tipe": "hadits",
-      "teks_ar": "طَلَبُ الْعِلْمِ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
-      "rawi": "Makhul dari Ali bin Abi Thalib",
-      "terjemah": "Menuntut ilmu itu fardhu atas setiap muslim dan muslimah."
+      "teks_ar": "استأذن النبي ﷺ في كتابة العلم الحسن فلم يأذن له",
+      "rawi": "Atha' bin Yasar dari Abu Sa'id Al-Khudri",
+      "terjemah": "Abu Sa'id Al-Khudri meminta izin kepada Nabi ﷺ untuk menulis ilmu, maka beliau tidak mengizinkannya."
     },
     {
       "id": "2-5",
-      "tipe": "hadits",
-      "teks_ar": "اُطْلُبُوا الْعِلْمَ وَلَوْ بِالصِّيْنِ فَإِنَّ الْعِلْمَ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
-      "rawi": "Riwayat lain dari Nabi ﷺ",
-      "terjemah": "Tuntutlah ilmu walau ke negeri Cina, karena sesungguhnya menuntut ilmu itu fardhu atas setiap muslim dan muslimah."
+      "tipe": "atsar",
+      "teks_ar": "كان ابن عباس ينهى عن الكتابة ويقول : إنما ضل من كان قبلكم بالكتابة",
+      "rawi": "Ibnu Muslim",
+      "terjemah": "Ibnu Abbas melarang menulis dan berkata: Sesungguhnya orang-orang sebelum kalian tersesat karena menulis."
     },
     {
       "id": "2-6",
       "tipe": "atsar",
-      "teks_ar": "عليكم بالعلم قبل أن يقبض وقبضه أن يذهب أصحابه، وعليكم بالعلم فإن أحدكم لا يدري متى يفتقر إليه",
-      "rawi": "Abdullah bin Mas'ud",
-      "terjemah": "Wajib atas kalian menuntut ilmu sebelum ilmu itu diangkat. Dan diangkatnya ilmu adalah dengan wafatnya para ulamanya. Wajib atas kalian menuntut ilmu, karena sesungguhnya salah seorang di antara kalian tidak tahu kapan ia akan membutuhkannya."
+      "teks_ar": "جاء أصحاب عبد الله بن مسعد إلى عبد الله فقالوا : إنا قد كتبنا عنك علماً أفتعرضه عليك فتبينه لنا؟ قال: نعم، فأتوه بذلك فأخذ الكتاب فغسله بالماء ثم رده عليهم",
+      "rawi": "Ibnu Abi Dawud dari ayahnya",
+      "terjemah": "Para sahabat Abdullah bin Mas'ud datang kepada beliau lalu berkata: Sesungguhnya kami telah menulis ilmu darimu. Maukah engkau perlihatkan kepada kami agar engkau jelaskan? Beliau menjawab: Ya. Maka mereka mendatanginya dengan tulisan itu. Lalu beliau mengambil kitab itu, mencucinya dengan air, kemudian mengembalikannya kepada mereka."
     },
     {
       "id": "2-7",
       "tipe": "matan",
-      "teks_ar": "ثم تكلم الناس في طلب الزيادة، قال بعضهم : إذا تعلم من العلم مقدار ما يحتاج إليه ينبغي أن يشتغل بالعمل به، ويترك التعلم",
-      "terjemah": "Kemudian para ulama berbeda pendapat tentang menuntut ilmu tambahan. Kelompok pertama berkata: jika seseorang sudah mempelajari kadar ilmu yang ia butuhkan, maka hendaknya ia sibuk mengamalkannya dan meninggalkan belajar lagi."
+      "teks_ar": "وذلك أنهم إذا كتبوا الكتاب اعتمدوا على الكتابة وتركوا الحفظ فيعرض على الكتابة عارض، فيفوت علمهم، ولأن الكتاب مما يزاد فيه وينقص، ولأن الكتاب يمكن أن يزاد فيه ويغير والذي حفظ لا يمكن التغيير فيه، ولأن الحافظ يتكلم بالعلم والذي أخبر عن الكتاب أخبر بالظن من غير حفظ",
+      "terjemah": "Karena jika mereka menulis, mereka akan bersandar pada tulisan dan meninggalkan hafalan. Lalu jika ada halangan pada tulisan itu, maka ilmunya akan hilang. Dan karena kitab itu bisa ditambah dan dikurangi. Kitab memungkinkan untuk ditambah dan diubah. Sedangkan yang dihafal tidak mungkin diubah. Dan karena orang yang hafal bisa berbicara dengan ilmu. Sedangkan orang yang hanya menyandarkan pada kitab, ia menyampaikan dengan prasangka tanpa hafalan."
     },
     {
       "id": "2-8",
-      "tipe": "matan",
-      "teks_ar": "وقال بعض الناس : إذا اشتغل بزيادة العلم فهو أفضل بعد أن لا يدخل النقصان في فرائضه، وهذا القول أصح",
-      "terjemah": "Kelompok kedua berkata: jika ia sibuk dengan ilmu tambahan maka itu lebih utama, selama tidak sampai mengurangi kewajiban-kewajibannya. Dan pendapat ini yang lebih shahih."
+      "tipe": "hadits",
+      "teks_ar": "ما من أحد من أصحاب النبي ﷺ أكثر حديثاً مني، إلا عبد الله بن عمر، فإنه كان يكتب ولا أكتب أنا",
+      "rawi": "Abu Hurairah",
+      "terjemah": "Tidak ada seorang pun dari sahabat Nabi ﷺ yang lebih banyak haditsnya dariku, kecuali Abdullah bin Amr. Karena ia menulis, sedangkan aku tidak menulis."
     },
     {
       "id": "2-9",
       "tipe": "hadits",
-      "teks_ar": "ويل للذي لا يعلم مرة، وويل للذي يعلم ولا يعمل به سبع مرات",
-      "rawi": "Abu Darda'",
-      "terjemah": "Celaka bagi orang yang tidak berilmu sekali. Dan celaka 7 kali bagi orang yang berilmu tapi tidak mengamalkannya."
+      "teks_ar": "يا رسول الله إنا لنسمع منك الحديث أفنكتبه عنك؟ قال: نعم، قلت: في الرضا والسخط؟ قال: نعم، فإني لا أقول فيهما إلا حقاً",
+      "rawi": "Ibnu Juraij bin Ma'rur dari Abdullah bin Umar",
+      "terjemah": "Wahai Rasulullah, sesungguhnya kami mendengar hadits darimu. Bolehkah kami menuliskannya? Beliau menjawab: Ya. Aku bertanya: Dalam keadaan ridha dan marah? Beliau menjawab: Ya, karena sesungguhnya aku tidak mengatakan dalam keduanya kecuali kebenaran."
     },
     {
       "id": "2-10",
       "tipe": "atsar",
-      "teks_ar": "من عمل بما يعلم شغله الله تعالى عما لا يعلم",
-      "rawi": "Fudhail bin Iyadh",
-      "terjemah": "Barangsiapa mengamalkan apa yang ia ketahui, maka Allah akan menyibukkannya dengan apa yang tidak ia ketahui."
+      "teks_ar": "من لم يكتب علماً فلا يعد علمه علماً",
+      "rawi": "Muawiyah bin Qurrah",
+      "terjemah": "Barangsiapa tidak menulis ilmu, maka ilmunya tidak dianggap sebagai ilmu."
     },
     {
       "id": "2-11",
       "tipe": "ayat",
-      "teks_ar": "فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّيْنِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ",
-      "referensi": "At-Taubah: 122",
-      "terjemah": "Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya."
+      "teks_ar": "عِلْمُهَا عِندَ رَبِّي فِي كِتَابٍ لَّا يَضِلُّ رَبِّي وَلَا يَنسَى",
+      "referensi": "Thaha: 52",
+      "terjemah": "Ilmu tentang itu ada di sisi Tuhanku, di dalam sebuah kitab. Tuhanku tidak akan salah dan tidak akan lupa."
     },
     {
       "id": "2-12",
-      "tipe": "ayat",
-      "teks_ar": "قُلْ هَلْ يَسْتَوِي الَّذِيْنَ يَعْلَمُوْنَ وَالَّذِيْنَ لَا يَعْلَمُوْنَ",
-      "referensi": "Az-Zumar: 9",
-      "terjemah": "Katakanlah: Adakah sama orang-orang yang mengetahui dengan orang-orang yang tidak mengetahui?"
+      "tipe": "atsar",
+      "teks_ar": "قدما على سليمان بن عبد الملك ليلاً، فلا يزل يحدثهما ويكتبان حتى أصبحا",
+      "rawi": "Rabi' bin Abi Anis dari kakeknya Zaid dan Ziyad",
+      "terjemah": "Keduanya datang menemui Sulaiman bin Abdul Malik di malam hari. Maka beliau terus bercerita kepada mereka dan mereka terus menulis sampai subuh."
     },
     {
       "id": "2-13",
-      "tipe": "ayat",
-      "teks_ar": "وَلَكِنْ كُوْنُوا رَبَّانِيِّيْنَ بِمَا كُنْتُمْ تُعَلِّمُوْنَ الْكِتَابَ",
-      "referensi": "Ali Imran: 79",
-      "terjemah": "Tetapi jadilah kamu orang-orang rabbani karena kamu selalu mengajarkan kitab. Para ahli tafsir berkata: Maksudnya jadilah kalian fuqaha' dan ulama."
+      "tipe": "atsar",
+      "teks_ar": "لا يعجزن أحدكم أن يكون عنده كتاب من هذا العلم",
+      "rawi": "Al-Hasan bin Ali",
+      "terjemah": "Janganlah salah seorang dari kalian merasa lemah untuk memiliki sebuah kitab dari ilmu ini."
     },
     {
       "id": "2-14",
-      "tipe": "hadits",
-      "teks_ar": "فَضْلُ الْعِلْمِ خَيْرٌ مِنَ الْعَمَلِ وَمِلَاكُ دِيْنِكُمُ الْوَرَعُ",
-      "rawi": "Tsauban dari Nabi ﷺ",
-      "terjemah": "Keutamaan ilmu lebih baik daripada amal, dan pokok agama kalian adalah wara'."
+      "tipe": "matan",
+      "teks_ar": "ولأن فيه بلوى فلو لم يكتب لذهب عنه العلم، ولو كتب لرجع إليه فيما ينسى أو يشكل عليه مسروراً",
+      "terjemah": "Karena ada kebutuhan mendesak. Jika tidak ditulis maka ilmu akan hilang. Jika ditulis maka bisa kembali kepadanya saat lupa atau saat ada yang musykil dengan rasa senang."
     },
     {
       "id": "2-15",
       "tipe": "atsar",
-      "teks_ar": "من العمل أن يتعلم الرجل العلم فيعلمه الناس",
-      "rawi": "Al-Hasan Al-Bashri",
-      "terjemah": "Termasuk amal adalah seseorang mempelajari ilmu lalu mengajarkannya kepada orang lain."
+      "teks_ar": "أبا يوسف عاب محمداً في كتابة العلم فقال محمد: إني خفت ذهاب العلم لأن النساء لا يلدن مثل أبي يوسف",
+      "rawi": "Muhammad bin Hasan merespons Abu Yusuf",
+      "terjemah": "Abu Yusuf mencela Muhammad bin Hasan karena menulis ilmu. Maka Muhammad berkata: Sesungguhnya aku khawatir ilmu akan hilang, karena para wanita tidak akan melahirkan orang seperti Abu Yusuf."
     },
     {
       "id": "2-16",
-      "tipe": "atsar",
-      "teks_ar": "تذاكر العلم ساعة من الليلة أحب إلى الله من إحيائها",
-      "rawi": "Abdullah bin Abbas",
-      "terjemah": "Bermudzakarah/mengulang ilmu selama satu jam di malam hari lebih dicintai Allah daripada menghidupkan malam itu dengan ibadah."
+      "tipe": "matan",
+      "teks_ar": "ولأن الأمة قد توارثت كتابة العلم",
+      "terjemah": "Dan karena umat ini telah saling mewarisi penulisan ilmu."
     },
     {
       "id": "2-17",
-      "tipe": "atsar",
-      "teks_ar": "إنك إن تتوسد بالعلم خير لك من أن تتوسد بالجهل",
-      "rawi": "Abu Dzar Al-Ghifari",
-      "terjemah": "Sesungguhnya engkau berbantalkan ilmu itu lebih baik bagimu daripada berbantalkan kebodohan."
+      "tipe": "hadits",
+      "teks_ar": "ما رآه المسلمون حسناً فهو عند الله حسن ، وما رآه المسلمون شيئاً فهو عند الله شين",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Apa yang dilihat kaum muslimin baik, maka ia baik di sisi Allah. Dan apa yang dilihat kaum muslimin buruk, maka ia buruk di sisi Allah."
     },
     {
       "id": "2-18",
-      "tipe": "atsar",
-      "teks_ar": "إن الناس يبعثون من قبورهم على ما ماتوا عليه، العالم عالماً والجاهل جاهلاً",
-      "rawi": "Abu Darda'",
-      "terjemah": "Sesungguhnya manusia akan dibangkitkan dari kubur mereka sesuai keadaan ketika mereka mati: orang alim dalam keadaan alim, dan orang bodoh dalam keadaan bodoh."
+      "tipe": "hadits",
+      "teks_ar": "لا تجتمع أمتي على الضلالة",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Umatku tidak akan bersepakat di atas kesesatan."
     },
     {
       "id": "2-19",
-      "tipe": "atsar",
-      "teks_ar": "الناس رجلان عالم رباني ومتعلم على سبيل النجاة وسائرهم همج رعاع أتباع كل ناعق يميلون مع كل ريح",
-      "rawi": "Ali bin Abi Thalib",
-      "terjemah": "Manusia itu ada 2 golongan: Ulama Rabbani dan pelajar yang berada di jalan keselamatan. Adapun selain keduanya adalah orang-orang bodoh, pengikut setiap orang yang berteriak, condong ke arah mana pun angin bertiup."
+      "tipe": "hadits",
+      "teks_ar": "أصحابي كالنجوم الزاهرة بأيهم اقتديتم اهتديتم",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Sahabatku seperti bintang-bintang yang bercahaya. Dengan siapa pun dari mereka kalian mengikuti, kalian akan terbimbing."
     },
     {
       "id": "2-20",
       "tipe": "hadits",
-      "teks_ar": "خير الناس من ينفع الناس",
-      "rawi": "Nabi ﷺ",
-      "terjemah": "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia."
-    },
-    {
-      "id": "2-21",
-      "tipe": "hadits",
-      "teks_ar": "هل يقبل الله الأعمال إلا بالعلم",
-      "rawi": "Nabi ﷺ",
-      "terjemah": "Apakah Allah menerima amal-amal kecuali dengan ilmu?"
-    },
-    {
-      "id": "2-22",
-      "tipe": "hadits",
-      "teks_ar": "إنَّ أفضل ما يتصدق به العبد أن يتعلم العلم ثم يُعلمه غيره",
-      "rawi": "Rasulullah ﷺ",
-      "terjemah": "Sesungguhnya sedekah yang paling utama yang dilakukan seorang hamba adalah ia mempelajari ilmu kemudian mengajarkannya kepada orang lain."
+      "teks_ar": "اكتبوا هذا العلم من كل غني وفقير، ومن كل صغير وكبير ، ومَنْ تَرك العلم من أجل أن صاحب العلم فقير أو أصغر منه سناً فَلْيَتبوأ مقعده في النار",
+      "rawi": "Nafi' dari Ibnu Umar - dari Nabi ﷺ",
+      "terjemah": "Tulislah ilmu ini dari setiap orang kaya dan miskin, dari setiap yang kecil dan yang besar. Barangsiapa meninggalkan ilmu karena pemilik ilmu itu fakir atau lebih muda darinya, maka hendaklah ia menempati tempat duduknya di neraka."
     }
   ],
-  "khulasah": "Bab kedua membahas urgensi dan kewajiban menuntut ilmu dalam Islam. Menuntut ilmu dibagi menjadi dua kategori: ilmu fardhu ain (wajib individual) yang mencakup pengetahuan minimal untuk menjalankan ibadah dan muamalah, dan ilmu tambahan yang hukumnya sunnah muakkadah. Para ulama sepakat bahwa menyibukkan diri menuntut ilmu lebih utama daripada ibadah sunnah semata, karena manfaat ilmu meluas ke masyarakat luas, bukan hanya untuk pelakunya sendiri. Ilmu adalah pemimpin amal, dan amal tanpa ilmu tidak akan diterima."
+  "khulasah": "Bab kedua membahas perbedaan pendapat tentang hukum menulis ilmu dalam Islam. Kelompok yang melarang menulis beralasan bahwa mengandalkan tulisan akan menyebabkan orang meninggalkan hafalan, sehingga jika terjadi sesuatu pada tulisan, ilmunya akan hilang. Selain itu, kitab dapat diubah atau ditambah-kurangi, berbeda dengan hafalan yang tidak bisa berubah. Kelompok yang membolehkan menulis berdakwa bahwa ini merupakan sarana untuk menjaga ilmu agar tidak hilang, dan umat Islam telah menyepakati praktik ini sejak dahulu. Mayoritas ulama menempatkan penulisan ilmu sebagai hal yang dibolehkan dan bahkan terkadang diperlukan untuk menjaga kelestarian ilmu dan kepentingan umat."
 }
