@@ -42,7 +42,7 @@ export const ChatSheet: FC<ChatSheetProps> = ({ babData, isOpen, onClose }) => {
           <div className="whatsapp-header-info">
             <div className="whatsapp-avatar-sm">S</div>
             <div>
-              <h3 className="whatsapp-header-title">Sabenih AI</h3>
+              <h3 className="whatsapp-header-title">Sabenih</h3>
               <p className="whatsapp-header-status">Online</p>
             </div>
           </div>
