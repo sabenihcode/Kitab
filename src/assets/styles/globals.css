@@ -2189,3 +2189,19 @@ a {
     height: 90vh;
   }
    }
+.profile-settings-card {
+  opacity: 0;
+  animation: slideUp 0.5s ease forwards;
+}
+
+.profile-settings-card:nth-of-type(2) {
+  animation-delay: 0.3s;
+}
+
+.profile-settings-card:nth-of-type(3) {
+  animation-delay: 0.4s;
+}
+
+.profile-settings-card:nth-of-type(4) {
+  animation-delay: 0.5s;
+}
