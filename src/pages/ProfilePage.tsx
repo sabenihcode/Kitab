@@ -47,21 +47,19 @@ export const ProfilePage = () => {
 
   return (
     <div className="profile-container page-with-nav">
-      {/* Top Nav */}
       <nav className="profile-topnav animate-fade-in-1">
         <button 
           className="profile-back" 
           onClick={() => navigate('/')}
           aria-label="Kembali"
         >
-          ← Kembali
+          Kembali
         </button>
         <span className="profile-navtitle">Pengaturan</span>
         <div style={{ width: 80 }} />
       </nav>
 
       <div className="profile-content">
-        {/* Profile Card - Compact */}
         <div className="profile-card-compact animate-scale-in">
           <div className="profile-avatar-medium">
             <span className="profile-avatar-text">
@@ -74,15 +72,7 @@ export const ProfilePage = () => {
           </div>
         </div>
 
-        {/* Edit Nama */}
-        <div 
-          className="settings-card"
-          style={{
-            opacity: 0,
-            animation: 'slideUp 0.5s ease forwards',
-            animationDelay: '0.3s',
-          }}
-        >
+        <div className="settings-card profile-settings-card">
           <p className="settings-eyebrow">Profil Pengguna</p>
           <div className="settings-body">
             <label htmlFor="user-name" className="settings-label">
@@ -110,7 +100,7 @@ export const ProfilePage = () => {
                 disabled={!hasChanges}
                 className={`btn-save ${savedFlash ? 'saved' : ''}`}
               >
-                {savedFlash ? '✓ Tersimpan' : 'Simpan Nama'}
+                {savedFlash ? 'Tersimpan' : 'Simpan Nama'}
               </button>
 
               {!isDefault && (
@@ -126,15 +116,7 @@ export const ProfilePage = () => {
           </div>
         </div>
 
-        {/* Data Bacaan */}
-        <div 
-          className="settings-card"
-          style={{
-            opacity: 0,
-            animation: 'slideUp 0.5s ease forwards',
-            animationDelay: '0.4s',
-          }}
-        >
+        <div className="settings-card profile-settings-card">
           <p className="settings-eyebrow">Data Bacaan</p>
           <div className="settings-body">
             <div className="progress-info">
@@ -157,15 +139,7 @@ export const ProfilePage = () => {
           </div>
         </div>
 
-        {/* Tentang - Compact */}
-        <div 
-          className="settings-card"
-          style={{
-            opacity: 0,
-            animation: 'slideUp 0.5s ease forwards',
-            animationDelay: '0.5s',
-          }}
-        >
+        <div className="settings-card profile-settings-card">
           <p className="settings-eyebrow">Tentang</p>
           <div className="settings-body">
             <div className="about-row-simple">
