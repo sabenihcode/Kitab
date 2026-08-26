@@ -1,75 +1,103 @@
-import { CohereClient } from 'cohere-ai';
-import type { BabData } from '../../types';
-
-const client = new CohereClient({
-  token: import.meta.env.VITE_COHERE_API_KEY,
-});
+import type { BabData } from '@types';
 
 export interface ChatMessage {
-  role: 'user' | 'assistant';  // internal naming
+  role: 'user' | 'assistant';
   message: string;
 }
 
+/**
+ * Call Cohere API langsung menggunakan Fetch (tanpa SDK)
+ */
 export const askCohere = async (
   userMessage: string,
   babData: BabData,
   chatHistory: ChatMessage[] = []
 ): Promise<string> => {
-  const kitabContext = `
+  try {
+    const apiKey = import.meta.env.VITE_COHERE_API_KEY;
+
+    if (!apiKey) {
+      throw new Error('VITE_COHERE_API_KEY tidak dikonfigurasi');
+    }
+
+    // Build context dari bab
+    const kitabContext = `
 BAB ${babData.id}: ${babData.judul_id}
 Ringkasan: ${babData.khulasah}
 
-Konten Paragraf (5 pertama):
-${babData.paragraf.slice(0, 5).map(p => `- [${p.tipe}] ${p.terjemah.substring(0, 200)}`).join('\n')}
+Konten (5 paragraf pertama):
+${babData.paragraf
+  .slice(0, 5)
+  .map((p) => `- [${p.tipe}] ${p.terjemah.substring(0, 150)}...`)
+  .join('\n')}
 `;
 
-  const systemPrompt = `Kamu adalah asisten belajar kitab Bustanul Arifin karya Imam An-Nawawi.
+    const systemPrompt = `Kamu adalah asisten belajar kitab Bustanul Arifin karya Imam An-Nawawi.
 
-Tugas kamu:
-1. Jawab pertanyaan HANYA berdasarkan konten bab "${babData.judul_id}"
+Tugas:
+1. Jawab HANYA berdasarkan konten bab "${babData.judul_id}"
 2. Gunakan bahasa Indonesia santai, relatable untuk anak muda
-3. Jelaskan istilah kitab dengan bahasa sederhana
-4. Kasih insight praktis untuk kehidupan sehari-hari
-5. Kalau di luar topik, redirect halus ke topik bab
+3. Jelaskan istilah dengan bahasa sederhana
+4. Berikan insight praktis
+5. Jika di luar topik, redirect ke bab
 
-Konteks Kitab:
-${kitabContext}
-`;
+Konteks:
+${kitabContext}`;
 
-  try {
-    const cohereChatHistory = chatHistory.map(msg => ({
-      role: msg.role === 'user' ? ('USER' as const) : ('CHATBOT' as const),
+    // Format chat history untuk Cohere API
+    const chatHistoryFormatted = chatHistory.map((msg) => ({
+      role: msg.role === 'user' ? 'USER' : 'CHATBOT',
       message: msg.message,
     }));
 
-    const response = await client.chat({
-      message: userMessage,
-      chatHistory: cohereChatHistory,
-      model: 'command-a-03-2025',
-      preamble: systemPrompt,
-      temperature: 0.8,
-      maxTokens: 500,
+    // Call Cohere API via fetch
+    const response = await fetch('https://api.cohere.ai/v1/chat', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: userMessage,
+        chat_history: chatHistoryFormatted,
+        model: 'command-light',
+        preamble: systemPrompt,
+        temperature: 0.8,
+        max_tokens: 500,
+      }),
     });
 
-    return response.text;
-  } catch (error) {
-    console.error('Cohere Error:', error);
-    
-    if (error instanceof Error) {
-      if (error.message.includes('401')) {
-        throw new Error('API key tidak valid. Cek .env.local');
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error('Cohere API error:', errorText);
+
+      if (response.status === 401) {
+        throw new Error('🔑 API Key tidak valid atau expired');
       }
-      if (error.message.includes('429')) {
-        throw new Error('Rate limit tercapai. Tunggu sebentar ya.');
+      if (response.status === 429) {
+        throw new Error('⏱️ Terlalu banyak request, tunggu sebentar');
       }
-      if (error.message.includes('400')) {
-        throw new Error('Format pesan tidak valid. Refresh halaman.');
-      }
-      if (error.message.includes('model')) {
-        throw new Error('Model AI sedang update. Coba lagi nanti.');
-      }
+
+      throw new Error(`API Error ${response.status}: ${errorText}`);
     }
-    
-    throw new Error('Gagal terhubung ke AI. Coba lagi nanti.');
+
+    const data = await response.json();
+
+    if (!data.text) {
+      throw new Error('Tidak ada response dari AI');
+    }
+
+    return data.text;
+  } catch (error) {
+    console.error('Cohere error:', error);
+    const message = error instanceof Error ? error.message : 'Terjadi error saat connect ke AI';
+    throw new Error(message);
   }
+};
+
+/**
+ * Validate Cohere config
+ */
+export const validateCohereConfig = (): boolean => {
+  return !!import.meta.env.VITE_COHERE_API_KEY;
 };
