@@ -11,7 +11,7 @@ export const SearchPage = () => {
   const { isCompleted } = useBabProgress();
   const [metadata, setMetadata] = useState<Metadata | null>(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null); // ← ADD
+  const [error, setError] = useState<string | null>(null);
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState<FilterType>('all');
 
@@ -21,7 +21,7 @@ export const SearchPage = () => {
         const data = await loadMetadata();
         setMetadata(data);
         setError(null);
-      } catch (err) { // ← ADD
+      } catch (err) {
         const errorMsg = err instanceof Error ? err.message : 'Gagal memuat metadata';
         setError(errorMsg);
         console.error('Error loading metadata:', err);
@@ -32,20 +32,17 @@ export const SearchPage = () => {
     fetchData();
   }, []);
 
-  // Filter + search
   const filteredBab = useMemo(() => {
     if (!metadata) return [];
 
     let result = metadata.daftar_isi;
 
-    // Apply filter
     if (filter === 'completed') {
       result = result.filter(b => isCompleted(b.id));
     } else if (filter === 'available') {
       result = result.filter(b => b.tersedia);
     }
 
-    // Apply search
     if (search.trim()) {
       const lower = search.toLowerCase();
       result = result.filter(b =>
@@ -67,17 +64,16 @@ export const SearchPage = () => {
     );
   }
 
-  // ← ADD ERROR STATE
   if (error) {
     return (
       <div className="center-state error-state">
-        <h2>⚠️ Terjadi Kesalahan</h2>
+        <h2>Terjadi Kesalahan</h2>
         <p>{error}</p>
         <button 
           onClick={() => navigate('/')}
           className="btn-primary"
         >
-          ← Kembali ke Beranda
+          Kembali ke Beranda
         </button>
       </div>
     );
@@ -87,21 +83,19 @@ export const SearchPage = () => {
 
   return (
     <div className="search-container page-with-nav">
-      {/* Top Nav */}
       <nav className="search-topnav animate-fade-in-1">
         <button 
           className="search-back" 
           onClick={() => navigate('/')}
           aria-label="Kembali ke beranda"
         >
-          ← Kembali
+          Kembali
         </button>
         <span className="search-navtitle">Cari Bab</span>
         <div style={{ width: 80 }} />
       </nav>
 
       <div className="search-content">
-        {/* Search Bar */}
         <div className="search-bar-wrap animate-fade-in-2">
           <input
             type="text"
@@ -119,12 +113,11 @@ export const SearchPage = () => {
               aria-label="Hapus pencarian"
               title="Hapus"
             >
-              ✕
+              X
             </button>
           )}
         </div>
 
-        {/* Filter Tabs */}
         <div className="search-filters animate-fade-in-3">
           <button
             className={`filter-tab ${filter === 'all' ? 'active' : ''}`}
@@ -149,7 +142,6 @@ export const SearchPage = () => {
           </button>
         </div>
 
-        {/* Result Count */}
         <div className="search-result-count animate-fade-in-4">
           <p className="section-label">
             {search || filter !== 'all' ? 'Hasil Pencarian' : 'Daftar Bab'}
@@ -159,11 +151,10 @@ export const SearchPage = () => {
           </p>
         </div>
 
-        {/* Results */}
         <div className="search-results">
           {filteredBab.length === 0 ? (
             <div className="empty-state">
-              <p>😔 Tidak ada bab yang cocok</p>
+              <p>Tidak ada bab yang cocok</p>
               {search && (
                 <p className="empty-state-sub">Coba kata kunci lain atau gunakan filter berbeda</p>
               )}
@@ -196,16 +187,15 @@ export const SearchPage = () => {
                     <h3 className="bab-judul">{bab.judul_id}</h3>
                     <p className="bab-status">
                       {done 
-                        ? '✓ Selesai dibaca' 
-                        : (bab.tersedia ? '📖 Tersedia' : '⏳ Segera hadir')}
+                        ? 'Selesai dibaca' 
+                        : (bab.tersedia ? 'Tersedia' : 'Segera hadir')}
                     </p>
                   </div>
                   <span 
                     className={`bab-check ${done ? 'is-complete' : ''}`} 
                     aria-hidden={!done}
-                    aria-label={done ? 'Sudah selesai dibaca' : ''}
                   >
-                    {done ? '✓' : ''}
+                    {done ? '' : ''}
                   </span>
                   <span className="bab-chevron" aria-hidden="true">›</span>
                 </article>
