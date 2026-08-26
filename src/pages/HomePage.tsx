@@ -83,7 +83,7 @@ export const HomePage = () => {
         <div className="home-header-text">
           <p className="home-eyebrow">{greeting.text}</p>
           <h1 className="home-title">{profile.name}</h1>
-          <p className="home-subtitle">Semoga harimu penuh berkah</p>
+          <p className="home-subtitle">Pedoman Hidup Menjadi Rakyat Indonesia</p>
         </div>
 
         <div className="home-avatar">
