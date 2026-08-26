@@ -1,0 +1,88 @@
+{
+  "id": 6,
+  "judul_ar": "فِي رِوَايَةِ الْحَدِيثِ بِالْمَعْنَى",
+  "judul_id": "Tentang Meriwayatkan Hadits dengan Makna",
+  "paragraf": [
+    {
+      "id": "6-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه رحمه الله : اختلف الناس في رواية الحديث بالمعنى، قال بعضهم : لا يجوز إلا بلفظه، وقال بعضهم: يجوز، وهو الأصح",
+      "terjemah": "Al-Faqih rahimahullah berkata: Para ulama berbeda pendapat tentang meriwayatkan hadits dengan makna. Sebagian berkata: Tidak boleh kecuali dengan lafadz aslinya. Dan sebagian berkata: Boleh, dan ini yang lebih shahih."
+    },
+    {
+      "id": "6-2",
+      "tipe": "hadits",
+      "teks_ar": "رحم الله امرأ سمع مني حديثاً فبلغه كما سمع",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Semoga Allah merahmati seseorang yang mendengar hadits dariku lalu menyampaikannya sebagaimana ia mendengarnya."
+    },
+    {
+      "id": "6-3",
+      "tipe": "hadits",
+      "teks_ar": "علم رجلاً دعاء وكان في آخر دعائه: آمنت بكتابك الذي نزلت وبنبيك الذي أرسلت، فقال الرجل : وبرسولك الذي أرسلت، فقال له النبي ﷺ : قل وبنبيك الذي أرسلت",
+      "rawi": "Al-Bara' bin Azib",
+      "terjemah": "Nabi ﷺ mengajarkan doa kepada seorang lelaki, dan di akhir doanya: Aku beriman kepada Kitab-Mu yang Engkau turunkan dan kepada Nabi-Mu yang Engkau utus. Lalu lelaki itu berkata: Dan kepada Rasul-Mu yang Engkau utus. Maka Nabi ﷺ bersabda kepadanya: Katakan: Dan kepada Nabi-Mu yang Engkau utus."
+    },
+    {
+      "id": "6-4",
+      "tipe": "matan",
+      "teks_ar": "فنهاه عن تغيير اللفظ",
+      "terjemah": "Maka beliau melarangnya mengubah lafadz."
+    },
+    {
+      "id": "6-5",
+      "tipe": "hadits",
+      "teks_ar": "ألا فليبلغ الشاهد الغائب",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Ketahuilah, hendaklah yang hadir menyampaikan kepada yang tidak hadir."
+    },
+    {
+      "id": "6-6",
+      "tipe": "matan",
+      "teks_ar": "فقد أمرنا بالتبليغ عاماً",
+      "terjemah": "Maka beliau memerintahkan kita untuk menyampaikan secara umum."
+    },
+    {
+      "id": "6-7",
+      "tipe": "atsar",
+      "teks_ar": "إذا حدثناكم حديثاً بالمعنى فحسبكم",
+      "rawi": "Watsilah bin Al-Asqa' (sahabat Nabi)",
+      "terjemah": "Jika kami menyampaikan hadits kepada kalian dengan makna, maka cukuplah itu bagi kalian."
+    },
+    {
+      "id": "6-8",
+      "tipe": "atsar",
+      "teks_ar": "كان إبراهيم النخعي والشعبي والحسن البصري يؤدون الحديث بالمعنى",
+      "rawi": "Ibnu Auf",
+      "terjemah": "Ibrahim An-Nakha'i, Asy-Sya'bi, dan Al-Hasan Al-Bashri meriwayatkan hadits dengan makna."
+    },
+    {
+      "id": "6-9",
+      "tipe": "atsar",
+      "teks_ar": "لو لم يكن بالمعنى واسعاً لهلك الناس",
+      "rawi": "Waki'",
+      "terjemah": "Seandainya tidak dibolehkan (meriwayatkan) dengan makna secara luas, niscaya manusia akan binasa."
+    },
+    {
+      "id": "6-10",
+      "tipe": "atsar",
+      "teks_ar": "إني لو قلت لكم إني أحدثكم كما سمعت فلا تصدقوني",
+      "rawi": "Sufyan Ats-Tsauri",
+      "terjemah": "Sesungguhnya jika aku katakan kepada kalian bahwa aku meriwayatkan kepada kalian persis seperti yang aku dengar, maka janganlah kalian percaya kepadaku."
+    },
+    {
+      "id": "6-11",
+      "tipe": "ayat",
+      "teks_ar": "فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+      "referensi": "At-Taubah: 122",
+      "terjemah": "Mengapa tidak pergi dari setiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya, agar mereka dapat menjaga diri."
+    },
+    {
+      "id": "6-12",
+      "tipe": "matan",
+      "teks_ar": "بلفظ العربية ولو كان قومهم لا يفقهون بلفظ العربية فلا بد له من البيان والتفسير، فثبت أن العبرة للمعنى لا للفظ",
+      "terjemah": "Ayat ini berbahasa Arab. Jika kaum mereka tidak memahami bahasa Arab, maka tidak ada jalan lain selain menjelaskan dan menafsirkannya. Maka terbukti bahwa yang menjadi patokan adalah makna, bukan lafadz."
+    }
+  ],
+  "khulasah": "Bab keenam membahas perbedaan pendapat ulama tentang meriwayatkan hadits dengan makna (bukan lafadz asli). Kelompok pertama melarang dan mengharuskan periwayatan dengan lafadz persis seperti yang didengar. Kelompok kedua membolehkan periwayatan dengan makna, dan ini pendapat yang lebih shahih. Dalil yang membolehkan antara lain: perintah umum Nabi untuk menyampaikan ilmu, praktik para sahabat dan tabi'in yang meriwayatkan dengan makna, dan kenyataan bahwa jika harus persis sama maka akan menyulitkan dan bahkan membinasakan umat. Yang terpenting dalam periwayatan adalah menjaga substansi makna, bukan kaku pada lafadz, selama makna hadits tidak berubah atau menyimpang."
+}
