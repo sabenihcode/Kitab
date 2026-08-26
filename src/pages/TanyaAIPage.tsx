@@ -166,7 +166,7 @@ export const TanyaAIPage = () => {
 
         {/* Tips Section */}
         <section className="tanya-tips animate-fade-in-4">
-          <h2 className="tips-title">💡 Tips Bertanya</h2>
+          <h2 className="tips-title">Tips Bertanya</h2>
           <ul className="tips-list">
             <li>Tanyakan hal yang ingin kamu pahami lebih dalam</li>
             <li>Jangan takut untuk bertanya berkali-kali</li>
