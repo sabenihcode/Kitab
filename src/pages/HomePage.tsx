@@ -5,7 +5,7 @@ import { Metadata } from '../types';
 import { useBabProgress } from '../hooks/useBabProgress';
 import { useUserProfile } from '../hooks/useUserProfile';
 import { getGreetingByTime } from '../utils/getGreeting';
-import './HomePage.css'; // ✅ Import CSS
+import './HomePage.css';
 
 export const HomePage = () => {
   const navigate = useNavigate();
@@ -59,6 +59,7 @@ export const HomePage = () => {
   if (loading) {
     return (
       <div className="center-state">
+        <div className="spinner" />
         <p>Memuat...</p>
       </div>
     );
@@ -66,8 +67,9 @@ export const HomePage = () => {
 
   if (error) {
     return (
-      <div className="center-state">
-        <p>Error: {error}</p>
+      <div className="center-state error-state">
+        <h2>Terjadi Kesalahan</h2>
+        <p>{error}</p>
       </div>
     );
   }
@@ -76,18 +78,15 @@ export const HomePage = () => {
 
   return (
     <div className="home-container page-with-nav">
-      {/* ✅ HEADER dengan animasi */}
+      {/* Header */}
       <header className="home-header">
         <div className="home-header-text">
-          <p className="home-eyebrow animate-fade-in-1">{greeting.text}</p>
-          <h1 className="home-title animate-fade-in-2">{profile.name}</h1>
-          <p className="home-subtitle animate-fade-in-3">
-            Semoga harimu penuh berkah
-          </p>
+          <p className="home-eyebrow">{greeting.text}</p>
+          <h1 className="home-title">{profile.name}</h1>
+          <p className="home-subtitle">Semoga harimu penuh berkah</p>
         </div>
 
-        {/* ✅ Logo dengan animasi */}
-        <div className="home-avatar animate-fade-in-4">
+        <div className="home-avatar">
           <img 
             src="/assets/logo.png" 
             alt="Logo Bustanul Arifin"
@@ -96,16 +95,16 @@ export const HomePage = () => {
         </div>
       </header>
 
-      {/* ✅ Stats dengan stagger animation */}
+      {/* Stats - GRID 2 KOLOM (KIRI KANAN) */}
       <div className="stats-grid">
-        <div className="stat-card stat-gold animate-slide-up-1">
+        <div className="stat-card stat-gold">
           <p className="stat-label">Progress</p>
           <p className="stat-value">
             {completedCount}<span className="stat-total">/{totalBab}</span>
           </p>
           <p className="stat-desc">bab selesai</p>
         </div>
-        <div className="stat-card stat-sage animate-slide-up-2">
+        <div className="stat-card stat-sage">
           <p className="stat-label">Persentase</p>
           <p className="stat-value">
             {progressPercent}<span className="stat-unit">%</span>
@@ -114,8 +113,8 @@ export const HomePage = () => {
         </div>
       </div>
 
-      {/* ✅ Kitab Card dengan animasi */}
-      <div className="kitab-card animate-fade-in-5">
+      {/* Kitab Card */}
+      <div className="kitab-card">
         <p className="kitab-label">Kitab Klasik</p>
         <h2 className="kitab-title-ar">{metadata.kitab.judul_ar}</h2>
         <p className="kitab-title-id">{metadata.kitab.judul_id}</p>
@@ -124,14 +123,15 @@ export const HomePage = () => {
         </p>
       </div>
 
-      {/* ✅ Search dengan animasi */}
-      <div className="search-wrap animate-fade-in-6">
+      {/* Search */}
+      <div className="search-wrap">
         <input
           type="text"
           className="search-input"
           placeholder="Cari bab..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
+          aria-label="Cari bab berdasarkan judul"
         />
       </div>
 
@@ -143,7 +143,7 @@ export const HomePage = () => {
         </p>
       </div>
 
-      {/* ✅ Bab List dengan stagger */}
+      {/* Bab List */}
       <div className="bab-list">
         {filteredBab.length === 0 ? (
           <div className="empty-state">
@@ -163,10 +163,11 @@ export const HomePage = () => {
                     navigate(`/bab/${bab.id}`);
                   }
                 }}
-                role={bab.tersedia ? 'link' : undefined}
-                tabIndex={bab.tersedia ? 0 : undefined}
+                role={bab.tersedia ? 'button' : undefined}
+                tabIndex={bab.tersedia ? 0 : -1}
+                aria-label={`${bab.judul_id}${done ? ', sudah dibaca' : ''}`}
                 style={{
-                  animation: `slideUp 0.4s ease forwards`,
+                  animation: 'slideUp 0.4s ease forwards',
                   animationDelay: `${0.5 + index * 0.05}s`,
                   opacity: 0,
                 }}
@@ -180,8 +181,8 @@ export const HomePage = () => {
                       : (bab.tersedia ? 'Tersedia' : 'Segera hadir')}
                   </p>
                 </div>
-                <span className={`bab-check ${done ? 'is-complete' : ''}`} aria-label={done ? 'Sudah selesai' : 'Belum selesai'}>
-                  {done ? '✓' : ''}
+                <span className={`bab-check ${done ? 'is-complete' : ''}`}>
+                  {done ? '' : ''}
                 </span>
                 <span className="bab-chevron" aria-hidden="true">›</span>
               </div>
