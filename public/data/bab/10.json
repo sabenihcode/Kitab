@@ -1,0 +1,110 @@
+{
+  "id": 10,
+  "judul_ar": "في آداب المذكر",
+  "judul_id": "Tentang Adab-Adab Pemberi Nasihat",
+  "paragraf": [
+    {
+      "id": "10-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه أبو الليث رحمه الله : أول ما يحتاج إليه المذكر يجب أن يكون صالحاً في نفسه لأنه لو لم يكن صالحاً يهرب منه العقلاء، ويقتدي به السفهاء فيكون في ذلك فساد العالم، وكلامه لا ينجع في قلوب الناس",
+      "terjemah": "Al-Faqih Abu Al-Laits rahimahullah berkata: Hal pertama yang dibutuhkan oleh pemberi nasihat adalah wajib ia menjadi orang yang shalih pada dirinya sendiri. Karena jika ia tidak shalih, orang-orang berakal akan lari darinya, sedangkan orang-orang bodoh akan mengikutinya, maka dalam hal itu terdapat kerusakan dunia, dan ucapannya tidak akan berbekas di hati manusia."
+    },
+    {
+      "id": "10-2",
+      "tipe": "matan",
+      "teks_ar": "وينبغي للمذكر أن يكون ورعاً فلا يحدث الناس بحديث لم يصح عنده لأنه روي عن علي بن أبي طالب رضي الله تعالى عنه عن النبي ﷺ أنه قال : من حدث بحديث وهو يرى أنه كذب فهو أحد الكذابين",
+      "terjemah": "Hendaknya pemberi nasihat menjadi orang yang wara', maka ia tidak boleh menceritakan kepada manusia hadits yang tidak shahih menurut penilaiannya. Karena diriwayatkan dari Ali bin Abi Thalib radhiyallahu anhu dari Nabi ﷺ bahwa beliau bersabda: 'Barangsiapa menceritakan hadits sedangkan ia menganggapnya sebagai dusta, maka ia termasuk salah satu dari pembohong.'"
+    },
+    {
+      "id": "10-3",
+      "tipe": "matan",
+      "teks_ar": "وينبغي أن لا يطول المجلس فيمل الناس، لأنه يذهب بركة العلم",
+      "terjemah": "Hendaknya ia tidak memperpanjang majelis sehingga membuat orang-orang bosan, karena hal itu menghilangkan berkah ilmu."
+    },
+    {
+      "id": "10-4",
+      "tipe": "atsar",
+      "teks_ar": "إن للقلوب نشاطاً وإقبالاً، وإن لها تولية وإدباراً، فحدث القوم ما أقبلوا عليك",
+      "rawi": "Abdullah bin Mas'ud radhiyallahu anhu",
+      "terjemah": "Sesungguhnya hati-hati itu memiliki semangat dan perhatian, dan juga memiliki berpaling dan mundur. Maka sampaikanlah kepada kaum selama mereka masih memberi perhatian kepadamu."
+    },
+    {
+      "id": "10-5",
+      "tipe": "hadits",
+      "teks_ar": "روحوا القلوب ساعة فساعة",
+      "rawi": "Az-Zuhri dari Nabi ﷺ",
+      "terjemah": "Istirahatkan hati-hati sesaat demi sesaat."
+    },
+    {
+      "id": "10-6",
+      "tipe": "atsar",
+      "teks_ar": "كان قاض في بني إسرائيل يطول عليهم، فأملهم فلعن ولعنوا",
+      "rawi": "Zaid bin Aslam dari ayahnya",
+      "terjemah": "Ada seorang hakim di Bani Israil yang memperpanjang (majelis) kepada mereka, lalu ia membosankan mereka, maka ia dilaknat dan mereka pun dilaknat."
+    },
+    {
+      "id": "10-7",
+      "tipe": "matan",
+      "teks_ar": "وينبغي للمذكر أن يكون متواضعاً ليناً ولا يكون متكبراً ولا فظاً غليظاً لأن التواضع واللين من أخلاق النبي ﷺ، قال الله تعالى : ﴿فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ﴾ [آل عمران: الآية ١٥٩]",
+      "terjemah": "Hendaknya pemberi nasihat menjadi orang yang rendah hati dan lemah lembut, tidak sombong dan tidak kasar lagi keras hati. Karena rendah hati dan lemah lembut adalah akhlak Nabi ﷺ. Allah Ta'ala berfirman: 'Maka disebabkan rahmat dari Allah-lah kamu berlaku lemah lembut terhadap mereka. Sekiranya kamu bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu' (QS. Ali Imran: 159)."
+    },
+    {
+      "id": "10-8",
+      "tipe": "matan",
+      "teks_ar": "وإذا أراد أن يخبر الناس بشيء من فضائل الصلاة والصيام والصدقة فينبغي أن يعمل به أولاً حتى لا يكون من أهل هذه الآية ﴿أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ﴾ [البقرة: الآية ٤٤]. وقال إبراهيم النخعي : إني أكره القصص لثلاث آيات، وقد ذكرناها",
+      "terjemah": "Jika ia hendak mengkhabarkan kepada manusia tentang keutamaan shalat, puasa, dan sedekah, maka hendaknya ia mengamalkannya terlebih dahulu agar tidak termasuk golongan yang dimaksud ayat ini: 'Mengapa kamu menyuruh orang lain (mengerjakan) kebajikan, sedang kamu melupakan diri (kewajiban) mu sendiri' (QS. Al-Baqarah: 44). Ibrahim An-Nakha'i berkata: Sesungguhnya aku memakruhkan bercerita karena tiga ayat, dan telah kami sebutkan sebelumnya."
+    },
+    {
+      "id": "10-9",
+      "tipe": "matan",
+      "teks_ar": "وينبغي للمذكر أن يكون عالماً بتفسير القرآن والأخبار وأقاويل الفقهاء",
+      "terjemah": "Hendaknya pemberi nasihat menjadi orang yang mengetahui tafsir Al-Qur'an, hadits-hadits, dan pendapat-pendapat para fuqaha."
+    },
+    {
+      "id": "10-10",
+      "tipe": "atsar",
+      "teks_ar": "رأى رجلاً يقص للناس فقال له : أتعرف الناسخ والمنسوخ ؟ فقال : لا ، فقال له علي : هلكت وأهلكت",
+      "rawi": "Ali bin Abi Thalib radhiyallahu anhu",
+      "terjemah": "Ali bin Abi Thalib radhiyallahu anhu melihat seorang laki-laki yang bercerita kepada manusia. Maka ia berkata kepadanya: Apakah engkau mengetahui (ayat-ayat) nasikh dan mansukh? Ia menjawab: Tidak. Maka Ali berkata kepadanya: Engkau telah binasa dan membinasakan (orang lain)."
+    },
+    {
+      "id": "10-11",
+      "tipe": "matan",
+      "teks_ar": "وينبغي للمذكر إذا حدث الناس أن لا يقبل بوجهه إلى واحد بل يعمهم",
+      "terjemah": "Hendaknya pemberi nasihat ketika berbicara kepada manusia tidak hanya menghadapkan wajahnya kepada satu orang, tetapi meratakan (pandangan) kepada mereka semua."
+    },
+    {
+      "id": "10-12",
+      "tipe": "atsar",
+      "teks_ar": "من السنة أن لا يقبل بوجهه على رجل واحد، ولكن يعمهم",
+      "rawi": "Habib bin Abi Tsabit",
+      "terjemah": "Termasuk sunnah adalah tidak menghadapkan wajahnya kepada satu orang saja, tetapi meratakan kepada mereka semua."
+    },
+    {
+      "id": "10-13",
+      "tipe": "matan",
+      "teks_ar": "ولا ينبغي للمذكر أن يكون طماعاً لأن الطمع يذل الإنسان ويذهب بهاء الوجه والعلم ولو أهدى إليه إنسان من غير مسألة فلا بأس أن يقبل هديته",
+      "terjemah": "Tidak layak bagi pemberi nasihat menjadi orang yang tamak, karena ketamakan merendahkan manusia dan menghilangkan cahaya wajah dan ilmu. Jika ada orang yang memberinya hadiah tanpa ia meminta, maka tidak mengapa ia menerima hadiahnya."
+    },
+    {
+      "id": "10-14",
+      "tipe": "matan",
+      "teks_ar": "وينبغي أن يكون في مجلسه الخوف والرجاء ولا يجعل كله خوفاً ولا كله رجاء لأنه نهى عن ذلك",
+      "terjemah": "Hendaknya dalam majelisnya terdapat (unsur) khauf (ketakutan) dan raja' (harapan), tidak menjadikan semuanya khauf dan tidak semuanya raja', karena hal itu dilarang."
+    },
+    {
+      "id": "10-15",
+      "tipe": "matan",
+      "teks_ar": "فإن كان المذكر يحتاج إلى تطويل المجلس فيستحب له أن يجعل في خلال مجلسه كلاماً يستظرفونه، ويتبسمون بذلك، فإن ذلك يزيد نشاطاً وإقبالاً على السماع",
+      "terjemah": "Jika pemberi nasihat memerlukan perpanjangan majelis, maka disunahkan baginya untuk menyisipkan di sela-sela majelisnya perkataan yang mereka anggap jenaka sehingga mereka tersenyum karenanya. Karena hal itu menambah semangat dan perhatian dalam mendengarkan."
+    },
+    {
+      "id": "10-16",
+      "tipe": "atsar",
+      "teks_ar": "كان إذا جلس رغب الناس في الآخرة وزهدهم في الدنيا، فإذا رآهم قد كسلوا أخذ في ذكر الغرس، والبناء، والحيطان، فإذا رآهم قد نشطوا أقبل في ذكر الآخرة",
+      "rawi": "Umar radhiyallahu anhu",
+      "terjemah": "Umar radhiyallahu anhu apabila duduk (mengajar), ia membuat orang-orang berminat kepada akhirat dan berzuhud terhadap dunia. Jika ia melihat mereka mulai lesu, ia mulai membicarakan tentang pertanian, bangunan, dan tembok-tembok. Jika ia melihat mereka telah bersemangat (lagi), ia kembali membicarakan tentang akhirat."
+    }
+  ],
+  "khulasah": "Bab kesepuluh membahas adab-adab yang harus dimiliki pemberi nasihat (al-mudzakkir). Pertama, ia harus shalih dalam dirinya sendiri agar ucapannya berbekas dan tidak menyebabkan kerusakan. Kedua, harus wara' dan tidak meriwayatkan hadits yang tidak shahih. Ketiga, tidak memperpanjang majelis sehingga membosankan karena menghilangkan berkah ilmu, sebagaimana nasihat Abdullah bin Mas'ud untuk berbicara selama audiens masih memperhatikan. Keempat, harus rendah hati dan lemah lembut, tidak sombong dan kasar sebagaimana akhlak Nabi ﷺ (QS. Ali Imran: 159). Kelima, harus mengamalkan apa yang diajarkan agar tidak tercela seperti dalam QS. Al-Baqarah: 44. Keenam, harus menguasai tafsir Al-Qur'an, hadits, dan pendapat fuqaha, termasuk nasikh-mansukh. Ketujuh, meratakan pandangan kepada semua hadirin, tidak hanya fokus pada satu orang. Kedelapan, tidak tamak karena merendahkan diri dan menghilangkan wibawa, namun boleh menerima hadiah yang tidak diminta. Kesembilan, menyeimbangkan antara khauf dan raja' dalam majelisnya. Kesepuluh, boleh menyisipkan humor ringan untuk menjaga semangat audiens, sebagaimana praktik Umar yang memvariasikan topik sesuai kondisi hadirin."
+}
