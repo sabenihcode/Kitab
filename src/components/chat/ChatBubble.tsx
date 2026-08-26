@@ -7,23 +7,19 @@ interface ChatBubbleProps {
 }
 
 export const ChatBubble: FC<ChatBubbleProps> = ({ role, message }) => {
-  if (role === 'user') {
-    return (
-      <div className="chat-bubble user">
-        <p className="chat-bubble-text">{message}</p>
-      </div>
-    );
-  }
-
-  // Assistant: format markdown
-  const html = formatAIMessage(message);
-  
   return (
-    <div className="chat-bubble assistant">
-      <p 
-        className="chat-bubble-text" 
-        dangerouslySetInnerHTML={{ __html: html }} 
-      />
+    <div className={`whatsapp-bubble whatsapp-bubble-${role}`}>
+      {role === 'user' ? (
+        <p className="whatsapp-bubble-text">{message}</p>
+      ) : (
+        <p 
+          className="whatsapp-bubble-text"
+          dangerouslySetInnerHTML={{ __html: formatAIMessage(message) }} 
+        />
+      )}
+      <span className="whatsapp-bubble-time">
+        {new Date().toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit' })}
+      </span>
     </div>
   );
 };
