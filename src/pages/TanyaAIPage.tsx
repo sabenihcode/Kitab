@@ -117,11 +117,6 @@ export const TanyaAIPage = () => {
           </p>
         </header>
 
-        {/* Available Count */}
-        <div className="tanya-count animate-fade-in-3">
-          <p>{availableBabs.length} bab tersedia untuk didiskusikan</p>
-        </div>
-
         {/* List Bab */}
         <div className="tanya-bab-list">
           {availableBabs.length === 0 ? (
