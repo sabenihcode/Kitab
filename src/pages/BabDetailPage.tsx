@@ -166,7 +166,7 @@ export const BabDetailPage = () => {
           onClick={() => toggleComplete(bab.id)}
           aria-pressed={done}
         >
-          {done ? '✓ Selesai Dibaca' : '○ Tandai Selesai Dibaca'}
+          {done ? 'Selesai Dibaca' : 'Tandai Selesai Dibaca'}
         </button>
       </div>
 
@@ -230,7 +230,6 @@ export const BabDetailPage = () => {
             }}
           >
             <div className="khulasah-header">
-              <span className="khulasah-icon">✨</span>
               <p className="khulasah-eyebrow">Kesimpulan Bab</p>
             </div>
             <h3 className="khulasah-title">Hikmah & Ringkasan</h3>
