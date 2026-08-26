@@ -1,0 +1,93 @@
+{
+  "id": 7,
+  "judul_ar": "فِي رِوَايَةِ الْحَدِيثِ وَالْإِجَازَةِ",
+  "judul_id": "Tentang Periwayatan Hadits dan Ijazah",
+  "paragraf": [
+    {
+      "id": "7-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه أبو الليث رضي الله تعالى عنه : اختلف الناس في رواية الحديث لو قال مكان حدثنا أخبرنا ، أو قال مكان أخبرنا : حدثنا يجوز أم لا؟",
+      "terjemah": "Al-Faqih Abu Al-Laits radhiyallahu anhu berkata: Para ulama berbeda pendapat tentang periwayatan hadits, apakah boleh seseorang mengatakan 'akhbarana' (telah mengkhabarkan kepada kami) menggantikan 'haddatsana' (telah menceritakan kepada kami), atau sebaliknya?"
+    },
+    {
+      "id": "7-2",
+      "tipe": "matan",
+      "teks_ar": "قال بعض أهل الحديث : إذا قرأت الحديث على محدّث فأردت أن تروي عنه ينبغي لك أن تقول : أخبرنا فلان، وإن كان المحدث قرأ عليك فقل : حدثنا فلان",
+      "terjemah": "Sebagian ahli hadits berkata: Jika engkau membaca hadits kepada seorang muhaddits (guru) dan ingin meriwayatkan darinya, maka hendaknya engkau mengatakan 'akhbarana fulan' (telah mengkhabarkan kepada kami si fulan). Adapun jika muhaddits yang membacakan kepadamu, maka katakan 'haddatsana fulan' (telah menceritakan kepada kami si fulan)."
+    },
+    {
+      "id": "7-3",
+      "tipe": "matan",
+      "teks_ar": "وقال أكثر أهل العلم : کلاهما سواء وبه نأخذ",
+      "terjemah": "Mayoritas ahli ilmu berkata: Keduanya sama saja. Dan ini pendapat yang kami ambil."
+    },
+    {
+      "id": "7-4",
+      "tipe": "atsar",
+      "teks_ar": "إذا قرأت الحديث على فقيه أو قرأ عليك فإن شئت قلت حدثنا وإن شئت قلت أخبرنا ، وإن شئت قلت سمعت من فلان",
+      "rawi": "Abu Yusuf Al-Qadhi",
+      "terjemah": "Jika engkau membacakan hadits kepada seorang faqih atau dia yang membacakan kepadamu, maka jika engkau mau katakan 'haddatsana', jika mau katakan 'akhbarana', dan jika mau katakan 'sami'tu min fulan' (aku mendengar dari si fulan)."
+    },
+    {
+      "id": "7-5",
+      "tipe": "atsar",
+      "teks_ar": "سألت أبا حنيفة فقلت له : أقول حدثنا أو أقول أخبرنا ؟ قال : إن شئت قلت حدثنا وإن شئت قلت أخبرنا",
+      "rawi": "Abu Muti'",
+      "terjemah": "Aku bertanya kepada Abu Hanifah, aku berkata kepadanya: Apakah aku mengatakan 'haddatsana' atau 'akhbarana'? Beliau menjawab: Jika engkau mau katakan 'haddatsana', dan jika mau katakan 'akhbarana'."
+    },
+    {
+      "id": "7-6",
+      "tipe": "atsar",
+      "teks_ar": "إن شئتم قلتم حدثنا وإن شئتم قلتم أنبأنا، وإن شئتم قلتم أخبرنا",
+      "rawi": "Syu'bah bin Al-Hajjaj",
+      "terjemah": "Jika kalian mau katakan 'haddatsana', jika mau katakan 'anba'ana', dan jika mau katakan 'akhbarana'."
+    },
+    {
+      "id": "7-7",
+      "tipe": "matan",
+      "teks_ar": "وإن قال المحدث : أجزت لك أن تحدث عني فلا يجوز لك أن تقول حدثنا ولا أخبرنا ، وجاز أن تقول أجازني فلان",
+      "terjemah": "Jika muhaddits berkata: 'Aku memberi izin (ijazah) kepadamu untuk meriwayatkan dariku', maka tidak boleh bagimu mengatakan 'haddatsana' atau 'akhbarana', tetapi boleh mengatakan 'ajazani fulan' (si fulan telah memberi ijazah kepadaku)."
+    },
+    {
+      "id": "7-8",
+      "tipe": "atsar",
+      "teks_ar": "سمعت الخليل بن أحمد القاضي رحمه الله قال : سمعت أبا طاهر أحمد بن سفين الديامي قال : إذا قال المحدث أجزت لك فكأنه قال: أجزت لك بأن لا تكذب علي",
+      "rawi": "Al-Khalil bin Ahmad Al-Qadhi dari Abu Thahir Ahmad bin Sufyan Ad-Diyami",
+      "terjemah": "Aku mendengar Al-Khalil bin Ahmad Al-Qadhi rahimahullah berkata: Aku mendengar Abu Thahir Ahmad bin Sufyan Ad-Diyami berkata: Jika muhaddits mengatakan 'ajaztu laka' (aku memberi ijazah kepadamu), maka seakan-akan ia berkata: Aku memberi izin kepadamu dengan syarat engkau tidak berdusta atasku."
+    },
+    {
+      "id": "7-9",
+      "tipe": "matan",
+      "teks_ar": "ولو كتب إليك المحدث بحديث أو دفع إليك كتابه وقال : حدثني فلان بجميع ما فيه، جاز لك أن تقول أخبرنا فلان، ولا يجوز أن تقول حدثنا فلان، لأن الكتابة خبر، والحديث لا يكون إلا بالمخاطبة",
+      "terjemah": "Jika muhaddits menulis hadits kepadamu atau menyerahkan kitabnya kepadamu dan berkata: 'Telah menceritakan kepadaku si fulan semua isi kitab ini', maka boleh bagimu mengatakan 'akhbarana fulan', tetapi tidak boleh mengatakan 'haddatsana fulan'. Karena tulisan itu adalah khabar (kabar/berita), sedangkan hadits hanya terjadi dengan mukhathabah (komunikasi langsung/lisan)."
+    },
+    {
+      "id": "7-10",
+      "tipe": "matan",
+      "teks_ar": "ألا ترى لو أن رجلاً حلف أن لا يخبر فلاناً بكذا فكتب إليه بذلك، فإنه يحنث ولو حلف بأن لا يحدثه، فكتب إليه فإنه لا يحنث ما لم يخاطبه",
+      "terjemah": "Tidakkah engkau lihat, jika seseorang bersumpah tidak akan mengkhabarkan (yukhbir) si fulan tentang sesuatu lalu ia menulis kepadanya hal tersebut, maka ia melanggar sumpah. Namun jika ia bersumpah tidak akan menceritakan (yuhadditsu) kepadanya lalu menulis kepadanya, maka ia tidak melanggar sumpah selama ia belum berbicara langsung kepadanya."
+    },
+    {
+      "id": "7-11",
+      "tipe": "atsar",
+      "teks_ar": "رأيت عبد الله بن شهاب يؤتى بالكتاب فيقال له : هذا كتابك عرفته فيقول: نعم، فيرضون بما قرأه عليهم وما قرؤوه عليه، فينسخون ويخبرون به",
+      "rawi": "Abu Dlamrah dari Abdullah bin Umar",
+      "terjemah": "Aku melihat Abdullah bin Syihab didatangi sebuah kitab lalu dikatakan kepadanya: Ini kitabmu, apakah engkau mengenalinya? Ia menjawab: Ya. Maka mereka ridha dengan apa yang ia bacakan kepada mereka maupun apa yang mereka bacakan kepadanya. Lalu mereka menyalin dan meriwayatkannya."
+    },
+    {
+      "id": "7-12",
+      "tipe": "atsar",
+      "teks_ar": "كتب إلي منصور بن المنعم بحديث فلقيته فسألته عن ذلك فقال : أليس قد كتبت إليك كتاباً ؟ فقلت له : إذا كتبت إلي فقد حدثتني به، قال: نعم، فذكرت ذلك لأيوب السختياني فقال : صدق إذا كتب إليك فقد حدثك",
+      "rawi": "Abdul Aziz bin Aban dari Syu'bah",
+      "terjemah": "Manshur bin Al-Mun'im menulis hadits kepadaku. Lalu aku bertemu dengannya dan bertanya tentang hal itu. Ia berkata: Bukankah aku sudah menulis surat kepadamu? Aku berkata kepadanya: Jika engkau menulis kepadaku, berarti engkau telah menceritakan (haddatsa) kepadaku? Ia menjawab: Ya. Lalu aku menceritakan hal itu kepada Ayyub As-Sikhtiyani, maka ia berkata: Benar, jika ia menulis kepadamu maka ia telah menceritakan kepadamu."
+    },
+    {
+      "id": "7-13",
+      "tipe": "atsar",
+      "teks_ar": "كتابة العلم إليك وسماعك منه بمنزلة واحدة، يعني يجوز الرواية عنه إذا كتب إليك كما يجوز لو سمعت منه ولكن يختلفان في لفظ الرواية",
+      "rawi": "Muhammad bin Al-Hasan",
+      "terjemah": "Penulisan ilmu kepadamu dan pendengaranmu darinya (guru) adalah sama kedudukannya. Maksudnya: boleh meriwayatkan darinya jika ia menulis kepadamu sebagaimana boleh jika engkau mendengar darinya. Namun keduanya berbeda dalam lafadz periwayatannya."
+    }
+  ],
+  "khulasah": "Bab ketujuh membahas tata cara dan istilah dalam periwayatan hadits serta hukum ijazah. Para ulama berbeda pendapat tentang penggunaan istilah 'haddatsana' (telah menceritakan) dan 'akhbarana' (telah mengkhabarkan). Sebagian membedakan: jika murid membaca kepada guru gunakan 'akhbarana', jika guru membacakan gunakan 'haddatsana'. Namun jumhur ulama termasuk Abu Hanifah dan Abu Yusuf membolehkan keduanya tanpa perbedaan. Ijazah (pemberian izin meriwayatkan) harus disebutkan dengan lafadz 'ajazani' bukan 'haddatsana'. Adapun kitabah (periwayatan melalui tulisan), para ulama membolehkannya dengan menggunakan istilah 'akhbarana' bukan 'haddatsana', karena 'hadits' secara bahasa mensyaratkan komunikasi lisan langsung. Muhammad bin Al-Hasan menegaskan bahwa kitabah dan sama' (mendengar langsung) sama-sama sah untuk dijadikan sumber periwayatan, namun berbeda dalam lafadz yang digunakan."
+}
