@@ -145,7 +145,7 @@ export const BabDetailPage = () => {
           aria-label="Buka AI Chat"
           title="Tanya AI tentang bab ini"
         >
-          Tanya AI
+          Tanya Jawab
         </button>
       </nav>
 
