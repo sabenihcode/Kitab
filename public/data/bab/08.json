@@ -1,0 +1,54 @@
+{
+  "id": 8,
+  "judul_ar": "في أخذ العلم من الثقات",
+  "judul_id": "Tentang Mengambil Ilmu dari Orang-Orang Terpercaya",
+  "paragraf": [
+    {
+      "id": "8-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه أبو الليث رحمه الله : ينبغي أن لا يؤخذ العلم إلا من أمين ثقة، لأن قوام الدين بالعلم، فينبغي للرجل أن لا يأتمن على دينه إلا من يجوز أن يؤتمن على نفسه.",
+      "terjemah": "Al-Faqih Abu Al-Laits rahimahullah berkata: Hendaknya ilmu tidak diambil kecuali dari orang yang amanah dan terpercaya, karena tegaknya agama adalah dengan ilmu. Maka seyogyanya seseorang tidak mempercayakan agamanya kecuali kepada orang yang layak dipercayai atas dirinya sendiri."
+    },
+    {
+      "id": "8-2",
+      "tipe": "hadits",
+      "teks_ar": "لا تحدثوا ممن لا تقبلون شهادته",
+      "rawi": "Abbad bin Katsir dari Nabi ﷺ",
+      "terjemah": "Janganlah kalian mengambil hadits dari orang yang kalian tidak menerima persaksiannya."
+    },
+    {
+      "id": "8-3",
+      "tipe": "atsar",
+      "teks_ar": "إن هذا العلم دين فانظروا عمن تأخذون دينكم",
+      "rawi": "Muhammad bin Sirin",
+      "terjemah": "Sesungguhnya ilmu ini adalah agama, maka perhatikanlah dari siapa kalian mengambil agama kalian."
+    },
+    {
+      "id": "8-4",
+      "tipe": "atsar",
+      "teks_ar": "من قال قولاً حسناً وعمل عملاً سيئاً فلا تأخذوا عنه علماً ولا تعتمدوا عليه",
+      "rawi": "Al-Hasan",
+      "terjemah": "Barangsiapa mengucapkan perkataan yang baik namun mengerjakan perbuatan yang buruk, maka janganlah kalian mengambil ilmu darinya dan jangan mengandalkannya."
+    },
+    {
+      "id": "8-5",
+      "tipe": "matan",
+      "teks_ar": "فإن قيل : أليس قد روى أنس بن مالك رضي الله تعالى عنه عن النبي ﷺ أنه قال : العلم ضالة المؤمن حيثما وجده أخذه قيل له : حيثما وجده أخذه إذا كان الذي أخبره به ثقة وكلامه ينجع، وأما إذا كان الذي أخبره به غير ثقة فلا يأخذه منه",
+      "terjemah": "Jika dikatakan: Bukankah Anas bin Malik radhiyallahu anhu telah meriwayatkan dari Nabi ﷺ bahwa beliau bersabda: 'Ilmu adalah barang temuan orang mukmin, di manapun ia menemukannya hendaklah ia mengambilnya'? Dijawab: Di manapun ia menemukannya hendaklah ia mengambilnya jika yang mengkhabarkannya adalah orang yang terpercaya dan ucapannya dapat diterima. Adapun jika yang mengkhabarkannya adalah orang yang tidak terpercaya, maka janganlah mengambilnya darinya."
+    },
+    {
+      "id": "8-6",
+      "tipe": "matan",
+      "teks_ar": "ولو أن رجلاً سمع حديثاً أو سمع مسألة فإن لم يكن القائل ثقة فلا يسع أن يقبل منه إلا أن يكون قولاً يوافق الأصول، فيجوز العمل به ولا يقع به العلم، وكذلك لو وجد حديثاً مكتوباً أو مسألة فإن كان موافقاً للأصول جاز له أن يعمل به، وإلا فلا.",
+      "terjemah": "Jika seseorang mendengar hadits atau mendengar suatu masalah, lalu pembicara tersebut bukanlah orang terpercaya, maka tidak boleh menerimanya darinya kecuali jika perkataan tersebut sesuai dengan pokok-pokok agama. Maka boleh mengamalkannya namun tidak dapat dijadikan dasar ilmu. Demikian pula jika ia menemukan hadits tertulis atau suatu masalah, jika sesuai dengan pokok-pokok agama maka boleh mengamalkannya, dan jika tidak maka tidak boleh."
+    },
+    {
+      "id": "8-7",
+      "tipe": "hadits",
+      "teks_ar": "من حدث بحديث وهو يرى أنه كذب فهو أحد الكاذبين",
+      "rawi": "Abdurrahman bin Abi Laila dari Ali bin Abi Thalib radhiyallahu anhu dari Nabi ﷺ",
+      "terjemah": "Barangsiapa menceritakan hadits sedangkan ia menganggapnya sebagai dusta, maka ia termasuk salah satu dari pembohong."
+    }
+  ],
+  "khulasah": "Bab kedelapan membahas pentingnya mengambil ilmu dari orang-orang yang terpercaya (tsiqah). Abu Al-Laits menegaskan bahwa ilmu hanya boleh diambil dari orang yang amanah dan terpercaya, karena tegaknya agama bergantung pada ilmu. Seseorang tidak boleh mempercayakan agamanya kecuali kepada orang yang layak dipercaya. Nabi ﷺ melarang mengambil hadits dari orang yang tidak diterima persaksiannya. Muhammad bin Sirin menegaskan bahwa ilmu adalah agama, sehingga harus berhati-hati memilih sumbernya. Al-Hasan melarang mengambil ilmu dari orang yang perkataannya baik namun perbuatannya buruk. Meskipun ada hadits bahwa ilmu adalah barang temuan mukmin yang diambil di manapun ditemukan, namun maksudnya adalah jika sumbernya terpercaya. Jika sumber tidak terpercaya, hanya boleh diterima jika sesuai dengan pokok-pokok agama, dan hanya untuk diamalkan bukan dijadikan dasar ilmu. Hadits terakhir memperingatkan bahwa meriwayatkan hadits yang dianggap dusta menjadikan seseorang termasuk pembohong."
+}
