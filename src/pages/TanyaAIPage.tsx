@@ -110,12 +110,10 @@ export const TanyaAIPage = () => {
       <div className="tanya-content">
         {/* Info Header Card */}
         <header className="tanya-info-card animate-fade-in-2">
-          <div className="info-card-content">
-            <h1 className="tanya-info-title">Ajak Sabenih Diskusi</h1>
-            <p className="tanya-info-desc">
-              Pilih bab kitab yang ingin kamu diskusikan. Sabenih siap menjawab pertanyaan-pertanyaanmu dengan penjelasan mendalam dan relevan.
-            </p>
-          </div>
+          <h1 className="tanya-info-title">Ajak Sabenih Diskusi</h1>
+          <p className="tanya-info-desc">
+            Pilih bab kitab yang ingin kamu diskusikan. Sabenih siap menjawab pertanyaan-pertanyaanmu dengan penjelasan mendalam dan relevan.
+          </p>
         </header>
 
         {/* List Bab */}
