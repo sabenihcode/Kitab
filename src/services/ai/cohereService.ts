@@ -52,21 +52,20 @@ ${kitabContext}`;
 
     // Call Cohere API via fetch
     const response = await fetch('https://api.cohere.ai/v1/chat', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        message: userMessage,
-        chat_history: chatHistoryFormatted,
-        model: 'command-light',
-        preamble: systemPrompt,
-        temperature: 0.8,
-        max_tokens: 500,
-      }),
-    });
-
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${apiKey}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      message: userMessage,
+      chat_history: chatHistoryFormatted,
+      model: 'command-r',  // ← UBAH DARI command-light
+      preamble: systemPrompt,
+      temperature: 0.8,
+      max_tokens: 500,
+    }),
+  });
     if (!response.ok) {
       const errorText = await response.text();
       console.error('Cohere API error:', errorText);
