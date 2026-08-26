@@ -3,7 +3,7 @@
     "judul_ar": "بُسْتَانُ الْعَارِفِيْن",
     "judul_id": "Bustanul Arifin",
     "pengarang": "Imam An-Nawawi",
-    "total_bab": 5,
+    "total_bab": 10,
     "kategori": "Akhlak & Tasawuf"
   },
   "daftar_isi": [
@@ -35,6 +35,36 @@
       "id": 5,
       "judul_ar": "فِي الِاخْتِلَافِ",
       "judul_id": "Tentang Perbedaan Pendapat",
+      "tersedia": true
+    },
+    {
+      "id": 6,
+      "judul_ar": "فِي رِوَايَةِ الْحَدِيثِ بِالْمَعْنَى",
+      "judul_id": "Tentang Meriwayatkan Hadits dengan Makna",
+      "tersedia": true
+    },
+    {
+      "id": 7,
+      "judul_ar": "فِي رِوَايَةِ الْحَدِيثِ وَالْإِجَازَةِ",
+      "judul_id": "Tentang Periwayatan Hadits dan Ijazah",
+      "tersedia": true
+    },
+    {
+      "id": 8,
+      "judul_ar": "في أخذ العلم من الثقات",
+      "judul_id": "Tentang Mengambil Ilmu dari Orang-Orang Terpercaya",
+      "tersedia": true
+    },
+    {
+      "id": 9,
+      "judul_ar": "في إباحة مجلس العظة",
+      "judul_id": "Tentang Kebolehan Majelis Nasihat",
+      "tersedia": true
+    },
+    {
+      "id": 10,
+      "judul_ar": "في آداب المذكر",
+      "judul_id": "Tentang Adab-Adab Pemberi Nasihat",
       "tersedia": true
     }
   ]
