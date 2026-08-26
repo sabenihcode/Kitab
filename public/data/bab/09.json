@@ -1,0 +1,109 @@
+{
+  "id": 9,
+  "judul_ar": "في إباحة مجلس العظة",
+  "judul_id": "Tentang Kebolehan Majelis Nasihat",
+  "paragraf": [
+    {
+      "id": "9-1",
+      "tipe": "matan",
+      "teks_ar": "قال الفقيه رحمه الله : كره بعض الناس الجلوس للعظة، وقال بعضهم : لا بأس به إذا أراد به وجه الله تعالى، وهذا القول أصح لأنه تعلم الشرائع",
+      "terjemah": "Al-Faqih rahimahullah berkata: Sebagian orang memakruhkan duduk untuk menyampaikan nasihat, dan sebagian lainnya berkata: Tidak mengapa jika diniatkan karena wajah Allah Ta'ala. Pendapat ini yang paling benar karena hal tersebut termasuk mempelajari syariat."
+    },
+    {
+      "id": "9-2",
+      "tipe": "matan",
+      "teks_ar": "فأما من كره ذلك فقد احتج بما روى عمرو بن شعيب عن أبيه عن جده أن النبي ﷺ قال: «لا يقص على الناس إلا أمير أو مأمور أو مراء",
+      "terjemah": "Adapun orang yang memakruhkannya berdalil dengan apa yang diriwayatkan Amr bin Syu'aib dari ayahnya dari kakeknya bahwa Nabi ﷺ bersabda: 'Tidak boleh bercerita (menyampaikan nasihat) kepada orang-orang kecuali seorang pemimpin, orang yang diperintah, atau orang yang ingin pamer (riya).'"
+    },
+    {
+      "id": "9-3",
+      "tipe": "atsar",
+      "teks_ar": "استأذن عمر بن الخطاب رضي الله تعالى عنه أن يقص على الناس في كل سبت يوماً ، قال : وما تصنع بذلك؟ قال : تذكراً للناس، قال: ذكر إن شئت واعلم أنه الذبح",
+      "rawi": "Tamim Ad-Dari",
+      "terjemah": "Tamim Ad-Dari meminta izin kepada Umar bin Al-Khattab radhiyallahu anhu untuk menyampaikan nasihat kepada orang-orang setiap Sabtu satu hari. Umar berkata: Apa yang akan engkau lakukan dengan hal itu? Ia menjawab: Untuk mengingatkan manusia. Umar berkata: Berilah nasihat jika engkau mau, dan ketahuilah bahwa itu adalah penyembelihan."
+    },
+    {
+      "id": "9-4",
+      "tipe": "matan",
+      "teks_ar": "وهذا كما قال رسول الله ﷺ : من استقصى فقد ذبح بغير سكين",
+      "terjemah": "Hal ini sebagaimana sabda Rasulullah ﷺ: 'Barangsiapa berlebihan (dalam berbicara) maka ia telah menyembelih tanpa pisau.'"
+    },
+    {
+      "id": "9-5",
+      "tipe": "hadits",
+      "teks_ar": "القاص ينتظر المقت والمستمع ينتظر الرحمة",
+      "rawi": "Nabi ﷺ",
+      "terjemah": "Pencerita (yang menyampaikan nasihat) menanti kemurkaan (Allah), sedangkan pendengar menanti rahmat."
+    },
+    {
+      "id": "9-6",
+      "tipe": "atsar",
+      "teks_ar": "انصرف عن الصلاة فجاء رجل يقص ويصيح فقال له أبو قلابة : إنما أنت حمار ناهق، وإن عدت إلينا لنؤدبنك",
+      "rawi": "Abu Qilabah",
+      "terjemah": "Abu Qilabah pulang dari shalat, lalu datang seorang laki-laki yang bercerita dan berteriak. Maka Abu Qilabah berkata kepadanya: Sesungguhnya engkau hanyalah keledai yang meringkik. Jika engkau mengulanginya lagi kepada kami, niscaya kami akan mendidikmu."
+    },
+    {
+      "id": "9-7",
+      "tipe": "atsar",
+      "teks_ar": "أكره القصص لثلاث آيات قوله تعالى : ﴿أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ﴾ [البقرة: الآية ٤٤] الآية، وقوله تعالى : ﴿لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾ [الصف: الآية ٢] الآية، وقوله تعالى : ﴿وَمَا أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَى مَا أَنْهَاكُمْ عَنْهُ﴾ [هود: الآية ٨٨]",
+      "rawi": "Ibrahim An-Nakha'i",
+      "terjemah": "Aku memakruhkan menyampaikan nasihat karena tiga ayat: firman Allah Ta'ala: 'Mengapa kamu menyuruh orang lain (mengerjakan) kebajikan, sedang kamu melupakan diri (kewajiban) mu sendiri' (QS. Al-Baqarah: 44), firman-Nya: 'Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan' (QS. Ash-Shaff: 2), dan firman-Nya: 'Dan aku tidak berkehendak menyalahi kamu (dengan mengerjakan) apa yang aku larang' (QS. Hud: 88)."
+    },
+    {
+      "id": "9-8",
+      "tipe": "hadits",
+      "teks_ar": "أن الله تعالى أوحى إلى عيسى عليه الصلاة والسلام أن عظ نفسك فإن اتعظت فعظ الناس وإلا فاستحي مني",
+      "rawi": "Hadits",
+      "terjemah": "Sesungguhnya Allah Ta'ala mewahyukan kepada Isa alaihissalam: Berilah nasihat kepada dirimu sendiri, jika engkau menerima nasihat maka nasihatilah manusia, jika tidak maka malulah kepada-Ku."
+    },
+    {
+      "id": "9-9",
+      "tipe": "matan",
+      "teks_ar": "وأما حجة من قال : إنه لا بأس به فقول الله تعالى : ﴿وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنفَعُ الْمُؤْمِنِينَ﴾ [الذاريات : الآية ٥٥]، وقال الله تعالى في آية أخرى : ﴿وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ﴾ [التوبة : الآية ١٢٢]",
+      "terjemah": "Adapun dalil orang yang berkata tidak mengapa (dengan majelis nasihat) adalah firman Allah Ta'ala: 'Dan tetaplah memberi peringatan, karena sesungguhnya peringatan itu bermanfaat bagi orang-orang yang beriman' (QS. Adz-Dzariyat: 55), dan Allah Ta'ala berfirman dalam ayat lain: 'Dan hendaklah mereka memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya, agar mereka dapat menjaga dirinya' (QS. At-Taubah: 122)."
+    },
+    {
+      "id": "9-10",
+      "tipe": "atsar",
+      "teks_ar": "يا معشر القصاص لا تقصوا فقد فقه الناس، ففي هذا الخبر دليل على أن القوم إذا لم يعلموا فلا بأس به",
+      "rawi": "Umar bin Al-Khattab radhiyallahu anhu",
+      "terjemah": "Wahai para pencerita, janganlah kalian bercerita (memberikan nasihat) karena orang-orang sudah memahami (agama). Dalam berita ini terdapat dalil bahwa jika kaum belum mengetahui maka tidak mengapa (menyampaikan nasihat)."
+    },
+    {
+      "id": "9-11",
+      "tipe": "atsar",
+      "teks_ar": "كان يذكر الناس كل عشية خميس وهو قائم على رجليه يدعو بدعوات",
+      "rawi": "Abdullah bin Mas'ud radhiyallahu anhu",
+      "terjemah": "Abdullah bin Mas'ud radhiyallahu anhu biasa mengingatkan manusia setiap sore Kamis dalam keadaan berdiri di atas kedua kakinya sambil berdoa dengan beberapa doa."
+    },
+    {
+      "id": "9-12",
+      "tipe": "hadits",
+      "teks_ar": "من كتم على الناس علماً يعلمه ألجم بلجام من نار يوم القيامة",
+      "rawi": "Atha' dari Abu Hurairah radhiyallahu anhu",
+      "terjemah": "Barangsiapa menyembunyikan dari manusia ilmu yang ia ketahui, maka ia akan dikekang dengan kekang dari api pada hari kiamat."
+    },
+    {
+      "id": "9-13",
+      "tipe": "atsar",
+      "teks_ar": "لولا آية لما جلست للناس وهي قوله تعالى: ﴿إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَى﴾ [البقرة: الآية ١٥٩] الآية",
+      "rawi": "Abu Hurairah radhiyallahu anhu",
+      "terjemah": "Seandainya bukan karena satu ayat, niscaya aku tidak akan duduk untuk mengajar manusia, yaitu firman Allah Ta'ala: 'Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterangan dan petunjuk' (QS. Al-Baqarah: 159)."
+    },
+    {
+      "id": "9-14",
+      "tipe": "hadits",
+      "teks_ar": "بلغوا عني ولو آية وحدثوا عن بني إسرائيل، فإن فيهم الأعاجيب، ولا حرج ومن كذب علي متعمداً فليتبوأ مقعده من النار",
+      "rawi": "Abdullah bin Umar radhiyallahu anhuma dari Nabi ﷺ",
+      "terjemah": "Sampaikanlah dariku walau satu ayat, dan ceritakanlah tentang Bani Israil, karena sesungguhnya pada mereka terdapat hal-hal yang menakjubkan, dan tidak mengapa. Barangsiapa berdusta atasku dengan sengaja, maka bersiap-siaplah menempati tempat duduknya dari neraka."
+    },
+    {
+      "id": "9-15",
+      "tipe": "atsar",
+      "teks_ar": "لولا العلماء لصار الناس كلهم مثل البهائم",
+      "rawi": "Al-Hasan",
+      "terjemah": "Seandainya tidak ada para ulama, niscaya semua manusia akan menjadi seperti binatang ternak."
+    }
+  ],
+  "khulasah": "Bab kesembilan membahas hukum majelis nasihat (majlis al-wa'zh). Para ulama berbeda pendapat: sebagian memakruhkannya dengan dalil hadits yang melarang kecuali pemimpin atau yang diperintah, kisah Umar yang memperingatkan Tamim Ad-Dari, hadits tentang pencerita menanti murka Allah, serta ayat-ayat yang mencela orang yang menyuruh kebaikan namun melupakan dirinya sendiri. Namun pendapat yang lebih shahih adalah membolehkannya jika diniatkan karena Allah, karena termasuk mempelajari syariat. Dalilnya adalah perintah Allah untuk memberi peringatan (QS. Adz-Dzariyat: 55 dan At-Taubah: 122), perkataan Umar yang mengindikasikan boleh jika orang belum paham, praktik Abdullah bin Mas'ud yang rutin memberi nasihat, ancaman bagi yang menyembunyikan ilmu, pernyataan Abu Hurairah yang mengajar karena takut dosa menyembunyikan ilmu (QS. Al-Baqarah: 159), perintah Nabi untuk menyampaikan walau satu ayat, dan pernyataan Al-Hasan bahwa tanpa ulama manusia akan seperti binatang. Kesimpulannya: majelis nasihat dibolehkan bahkan dianjurkan, terutama bagi orang awam yang membutuhkan bimbingan."
+}
