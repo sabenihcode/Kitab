@@ -155,7 +155,7 @@ export const TanyaAIPage = () => {
                   <h3 className="tanya-bab-judul">{bab.judul_id}</h3>
                   <p className="tanya-bab-judul-ar">{bab.judul_ar}</p>
                   <p className="tanya-bab-action">
-                    {loadingBab ? '⏳ Memuat...' : '💬 Mulai Chat'}
+                    {loadingBab ? '⏳ Memuat...' : 'Mulai Chat'}
                   </p>
                 </div>
                 <span className="tanya-bab-chevron" aria-hidden="true">›</span>
