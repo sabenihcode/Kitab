@@ -30,8 +30,8 @@
       "@utils/*": ["./src/utils/*"],
       "@services/*": ["./src/services/*"],
       "@assets/*": ["./src/assets/*"],
-      "@data/*": ["./src/data/*"]
-      ,"@pages/*": ["./src/pages/*"]
+      "@data/*": ["./src/data/*"],
+      "@pages/*": ["./src/pages/*"]
     }
   },
   "include": ["src"],
