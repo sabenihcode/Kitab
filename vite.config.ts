@@ -1,9 +1,9 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react-swc'
-import { fileURLToPath } from 'node:url'
-import path from 'path'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react-swc';
+import { fileURLToPath } from 'node:url';
+import path from 'path';
 
-const projectDirectory = path.dirname(fileURLToPath(import.meta.url))
+const projectDirectory = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [react()],
@@ -24,4 +24,4 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
-})
+});
