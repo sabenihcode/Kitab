@@ -1,40 +1,47 @@
+/* ============================================
+   KITAB KUNING (MANUSCRIPT) THEME
+   ============================================ */
+
 :root {
-  /* Background */
-  --bg: #0f0e0c;
-  --surface: #181714;
-  --surface-light: #2a2824;
-  
-  /* Brand */
-  --primary: #c9a84c;
-  --primary-dark: #8b7d3a;
-  --primary-dim: rgba(201, 168, 76, 0.1);
-  --primary-border: rgba(201, 168, 76, 0.3);
-  
-  /* Text */
-  --text-1: #f0ebe0;
-  --text-2: #9b9284;
-  --text-3: #5a554d;
-  
-  /* States */
-  --success: #7a9970;
-  --success-bg: rgba(122, 153, 112, 0.1);
-  
-  /* Border */
-  --border: rgba(255, 255, 255, 0.08);
-  --border-md: rgba(255, 255, 255, 0.14);
-  
-  /* Radius */
-  --radius-sm: 8px;
-  --radius: 14px;
-  --radius-lg: 20px;
-  --radius-pill: 999px;
-  
+  /* Warna Kertas Kitab Klasik */
+  --kitab-paper: #F4E4BC;           /* Kertas utama kuning keemasan */
+  --kitab-paper-light: #FAF0D7;     /* Kertas lebih muda */
+  --kitab-paper-dark: #D4B886;      /* Kertas lebih tua */
+  --kitab-paper-shadow: #C9A875;    /* Bayangan kertas */
+  --kitab-paper-edge: #B8956A;      /* Ujung kertas (kotor) */
+
+  /* Warna Tinta */
+  --ink-black: #1A0E08;             /* Tinta hitam pekat */
+  --ink-brown: #3E2723;             /* Tinta coklat */
+  --ink-red: #8B0000;               /* Tinta merah (highlight) */
+  --ink-gold: #8B6914;              /* Tinta emas (aksen) */
+
+  /* Warna Aksen */
+  --accent-green: #2D5016;          /* Hijau tua */
+  --accent-blue: #1A3A52;           /* Biru tua */
+  --accent-burgundy: #6B0F1A;       /* Merah maroon */
+
+  /* Border & Frame */
+  --frame-ornate: #8B4513;          /* Warna frame */
+  --frame-thin: rgba(139, 69, 19, 0.3);
+
+  /* Shadows */
+  --shadow-paper: 0 2px 8px rgba(139, 69, 19, 0.2);
+  --shadow-deep: 0 4px 16px rgba(62, 39, 35, 0.3);
+  --shadow-inset: inset 0 0 20px rgba(139, 69, 19, 0.1);
+
+  /* Font */
+  --font-arabic: 'Amiri', 'Scheherazade New', 'Traditional Arabic', serif;
+  --font-kitab: 'Scheherazade New', 'Amiri', serif;
+  --font-latin: 'Georgia', 'Times New Roman', serif;
+
   /* Spacing */
-  --space-1: 4px;
-  --space-2: 8px;
-  --space-3: 12px;
-  --space-4: 16px;
-  --space-5: 20px;
-  --space-6: 24px;
-  --space-8: 32px;
+  --line-height-arabic: 2.2;
+  --line-height-id: 1.7;
+
+  /* Pattern Texture */
+  --pattern-paper: 
+    radial-gradient(circle at 20% 30%, rgba(139, 69, 19, 0.04) 0%, transparent 50%),
+    radial-gradient(circle at 80% 70%, rgba(139, 69, 19, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 50% 50%, rgba(139, 69, 19, 0.03) 0%, transparent 70%);
 }
