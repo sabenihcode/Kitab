@@ -3,7 +3,7 @@
     "judul_ar": "بُسْتَانُ الْعَارِفِيْن",
     "judul_id": "Bustanul Arifin",
     "pengarang": "Imam An-Nawawi",
-    "total_bab": 10,
+    "total_bab": 159,
     "kategori": "Akhlak & Tasawuf"
   },
   "daftar_isi": [
@@ -51,21 +51,915 @@
     },
     {
       "id": 8,
-      "judul_ar": "في أخذ العلم من الثقات",
+      "judul_ar": "فِي أَخْذِ الْعِلْمِ مِنَ الثِّقَاتِ",
       "judul_id": "Tentang Mengambil Ilmu dari Orang-Orang Terpercaya",
       "tersedia": true
     },
     {
       "id": 9,
-      "judul_ar": "في إباحة مجلس العظة",
+      "judul_ar": "فِي إِبَاحَةِ مَجْلِسِ الْعِظَةِ",
       "judul_id": "Tentang Kebolehan Majelis Nasihat",
       "tersedia": true
     },
     {
       "id": 10,
-      "judul_ar": "في آداب المذكر",
+      "judul_ar": "فِي آدَابِ الْمُذَكِّرِ",
       "judul_id": "Tentang Adab-Adab Pemberi Nasihat",
       "tersedia": true
+    },
+    {
+      "id": 11,
+      "judul_ar": "فِي آدَابِ الْمُسْتَمِعِينَ",
+      "judul_id": "Tentang Adab-Adab Pendengar",
+      "tersedia": false
+    },
+    {
+      "id": 12,
+      "judul_ar": "فِي الْحَثِّ عَلَى طَلَبِ الْعِلْمِ وَتَفْضِيلِ الْفِقْهِ عَلَى غَيْرِهِ",
+      "judul_id": "Tentang Dorongan Menuntut Ilmu dan Keutamaan Fiqih",
+      "tersedia": false
+    },
+    {
+      "id": 13,
+      "judul_ar": "فِي مُنَاظَرَةِ الْعِلْمِ",
+      "judul_id": "Tentang Diskusi Ilmiah",
+      "tersedia": false
+    },
+    {
+      "id": 14,
+      "judul_ar": "فِي آدَابِ الْمُتَعَلِّمِ",
+      "judul_id": "Tentang Adab-Adab Pelajar",
+      "tersedia": false
+    },
+    {
+      "id": 15,
+      "judul_ar": "فِي قَبُولِ الْقَضَاءِ وَعَدَمِ قَبُولِهِ",
+      "judul_id": "Tentang Menerima dan Menolak Jabatan Hakim",
+      "tersedia": false
+    },
+    {
+      "id": 16,
+      "judul_ar": "فِي آدَابِ الْقَاضِي",
+      "judul_id": "Tentang Adab-Adab Hakim",
+      "tersedia": false
+    },
+    {
+      "id": 17,
+      "judul_ar": "فِي فَضْلِ تَعَلُّمِ الْقُرْآنِ وَتَعْلِيمِهِ",
+      "judul_id": "Tentang Keutamaan Mempelajari dan Mengajarkan Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 18,
+      "judul_ar": "فِي تَفْسِيرِ السَّبْعِ الْمَثَانِي",
+      "judul_id": "Tentang Tafsir As-Sab'ul Matsani",
+      "tersedia": false
+    },
+    {
+      "id": 19,
+      "judul_ar": "فِيمَا نَزَلَ مِنَ الْقُرْآنِ بِمَكَّةَ وَالْمَدِينَةِ",
+      "judul_id": "Tentang Ayat-Ayat yang Turun di Makkah dan Madinah",
+      "tersedia": false
+    },
+    {
+      "id": 20,
+      "judul_ar": "فِي الْكَلَامِ فِي سُورَةِ بَرَاءَةَ",
+      "judul_id": "Tentang Pembahasan Surah Bara'ah",
+      "tersedia": false
+    },
+    {
+      "id": 21,
+      "judul_ar": "فِي الشِّعْرِ وَإِنْشَادِهِ",
+      "judul_id": "Tentang Syair dan Pembacaannya",
+      "tersedia": false
+    },
+    {
+      "id": 22,
+      "judul_ar": "فِيمَا قِيلَ فِي أَشْعَارِ النَّبِيِّ ﷺ",
+      "judul_id": "Tentang Syair-Syair Nabi ﷺ",
+      "tersedia": false
+    },
+    {
+      "id": 23,
+      "judul_ar": "فِي عِبَارَةِ الرُّؤْيَا",
+      "judul_id": "Tentang Tafsir Mimpi",
+      "tersedia": false
+    },
+    {
+      "id": 24,
+      "judul_ar": "فِي الرُّؤْيَا الصَّالِحَةِ وَحُسْنِ الْعِبَارَةِ",
+      "judul_id": "Tentang Mimpi yang Baik dan Tafsirnya",
+      "tersedia": false
+    },
+    {
+      "id": 25,
+      "judul_ar": "فِي الْكَلَامِ فِي الطِّبِّ وَالرُّقَى",
+      "judul_id": "Tentang Pembahasan Pengobatan dan Ruqyah",
+      "tersedia": false
+    },
+    {
+      "id": 26,
+      "judul_ar": "فِي الْأَطْعِمَةِ الَّتِي فِيهَا الدَّوَاءُ",
+      "judul_id": "Tentang Makanan-Makanan yang Mengandung Obat",
+      "tersedia": false
+    },
+    {
+      "id": 27,
+      "judul_ar": "فِي تَفْضِيلِ اللِّسَانِ الْعَرَبِيِّ عَلَى غَيْرِهِ",
+      "judul_id": "Tentang Keutamaan Bahasa Arab atas Bahasa Lainnya",
+      "tersedia": false
+    },
+    {
+      "id": 28,
+      "judul_ar": "فِي نُزُولِ الْقُرْآنِ عَلَى سَبْعَةِ أَحْرُفٍ",
+      "judul_id": "Tentang Turunnya Al-Qur'an dalam Tujuh Huruf",
+      "tersedia": false
+    },
+    {
+      "id": 29,
+      "judul_ar": "فِي الْكَلَامِ فِي تَفْسِيرِ الْقُرْآنِ",
+      "judul_id": "Tentang Pembahasan Tafsir Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 30,
+      "judul_ar": "فِي حُسْنِ الْمُعَاشَرَةِ وَمَعْرِفَةِ الْحُقُوقِ",
+      "judul_id": "Tentang Pergaulan yang Baik dan Mengenal Hak-Hak",
+      "tersedia": false
+    },
+    {
+      "id": 31,
+      "judul_ar": "فِي زِيَارَةِ الْإِخْوَانِ",
+      "judul_id": "Tentang Mengunjungi Saudara",
+      "tersedia": false
+    },
+    {
+      "id": 32,
+      "judul_ar": "فِي التَّسْلِيمِ",
+      "judul_id": "Tentang Salam",
+      "tersedia": false
+    },
+    {
+      "id": 33,
+      "judul_ar": "فِي التَّسْلِيمِ عَلَى الصِّبْيَانِ",
+      "judul_id": "Tentang Mengucapkan Salam kepada Anak-Anak",
+      "tersedia": false
+    },
+    {
+      "id": 34,
+      "judul_ar": "فِي التَّسْلِيمِ عَلَى أَهْلِ الذِّمَّةِ",
+      "judul_id": "Tentang Mengucapkan Salam kepada Ahli Dzimmah",
+      "tersedia": false
+    },
+    {
+      "id": 35,
+      "judul_ar": "فِي التَّسْلِيمِ عِنْدَ دُخُولِ الْبَيْتِ",
+      "judul_id": "Tentang Mengucapkan Salam saat Masuk Rumah",
+      "tersedia": false
+    },
+    {
+      "id": 36,
+      "judul_ar": "فِيمَا يُسْتَحَبُّ مِنَ اللِّبَاسِ",
+      "judul_id": "Tentang Pakaian yang Dianjurkan",
+      "tersedia": false
+    },
+    {
+      "id": 37,
+      "judul_ar": "فِي الْجَمَالِ",
+      "judul_id": "Tentang Keindahan",
+      "tersedia": false
+    },
+    {
+      "id": 38,
+      "judul_ar": "فِيمَا يَجُوزُ لُبْسُهُ مِنَ الثِّيَابِ وَمَا لَا يَجُوزُ",
+      "judul_id": "Tentang Pakaian yang Boleh dan Tidak Boleh Dipakai",
+      "tersedia": false
+    },
+    {
+      "id": 39,
+      "judul_ar": "فِي الْعَلَمِ فِي الثَّوْبِ",
+      "judul_id": "Tentang Tanda pada Pakaian",
+      "tersedia": false
+    },
+    {
+      "id": 40,
+      "judul_ar": "فِي افْتِرَاشِ الدِّيبَاجِ",
+      "judul_id": "Tentang Menghamparkan Kain Sutra",
+      "tersedia": false
+    },
+    {
+      "id": 41,
+      "judul_ar": "فِي لُبْسِ الْحُمْرَةِ",
+      "judul_id": "Tentang Memakai Warna Merah",
+      "tersedia": false
+    },
+    {
+      "id": 42,
+      "judul_ar": "فِي جُلُودِ السِّبَاعِ",
+      "judul_id": "Tentang Kulit Binatang Buas",
+      "tersedia": false
+    },
+    {
+      "id": 43,
+      "judul_ar": "فِي أَكْلِ اللَّحْمِ",
+      "judul_id": "Tentang Memakan Daging",
+      "tersedia": false
+    },
+    {
+      "id": 44,
+      "judul_ar": "فِي أَكْلِ الْفَالُوذَجِ",
+      "judul_id": "Tentang Memakan Faludzaj",
+      "tersedia": false
+    },
+    {
+      "id": 45,
+      "judul_ar": "فِيمَا جَاءَ فِي الْأَطْعِمَةِ",
+      "judul_id": "Tentang Berbagai Macam Makanan",
+      "tersedia": false
+    },
+    {
+      "id": 46,
+      "judul_ar": "فِي أَكْلِ الثَّوْمِ",
+      "judul_id": "Tentang Memakan Bawang Putih",
+      "tersedia": false
+    },
+    {
+      "id": 47,
+      "judul_ar": "مَا قِيلَ فِي الْمُرُوءَةِ",
+      "judul_id": "Tentang Muru'ah (Kepribadian Mulia)",
+      "tersedia": false
+    },
+    {
+      "id": 48,
+      "judul_ar": "فِيمَا قِيلَ فِي الْعَقْلِ",
+      "judul_id": "Tentang Akal",
+      "tersedia": false
+    },
+    {
+      "id": 49,
+      "judul_ar": "فِي الْآدَابِ",
+      "judul_id": "Tentang Adab-Adab",
+      "tersedia": false
+    },
+    {
+      "id": 50,
+      "judul_ar": "فِي آدَابِ الْوُضُوءِ وَالصَّلَاةِ",
+      "judul_id": "Tentang Adab Wudhu dan Shalat",
+      "tersedia": false
+    },
+    {
+      "id": 51,
+      "judul_ar": "فِي آدَابِ النَّوْمِ",
+      "judul_id": "Tentang Adab Tidur",
+      "tersedia": false
+    },
+    {
+      "id": 52,
+      "judul_ar": "فِي آدَابِ الْأَكْلِ",
+      "judul_id": "Tentang Adab Makan",
+      "tersedia": false
+    },
+    {
+      "id": 53,
+      "judul_ar": "فِي إِجَابَةِ الدَّعْوَةِ",
+      "judul_id": "Tentang Memenuhi Undangan",
+      "tersedia": false
+    },
+    {
+      "id": 54,
+      "judul_ar": "فِي آدَابِ الضِّيَافَةِ",
+      "judul_id": "Tentang Adab Menjamu Tamu",
+      "tersedia": false
+    },
+    {
+      "id": 55,
+      "judul_ar": "فِي الْخِلَالِ",
+      "judul_id": "Tentang Tusuk Gigi",
+      "tersedia": false
+    },
+    {
+      "id": 56,
+      "judul_ar": "فِي آدَابِ الشُّرْبِ",
+      "judul_id": "Tentang Adab Minum",
+      "tersedia": false
+    },
+    {
+      "id": 57,
+      "judul_ar": "فِي تَقْدِيمِ الْيَمِينِ عَلَى الشِّمَالِ",
+      "judul_id": "Tentang Mendahulukan Tangan Kanan atas Kiri",
+      "tersedia": false
+    },
+    {
+      "id": 58,
+      "judul_ar": "فِي الْخُرُوجِ مِنَ الْمَنْزِلِ وَالصُّحْبَةِ",
+      "judul_id": "Tentang Keluar Rumah dan Perjalanan Bersama",
+      "tersedia": false
+    },
+    {
+      "id": 59,
+      "judul_ar": "فِي الْبَيْعِ وَالشِّرَاءِ",
+      "judul_id": "Tentang Jual Beli",
+      "tersedia": false
+    },
+    {
+      "id": 60,
+      "judul_ar": "فِي طَاعَةِ الْوُلَاةِ",
+      "judul_id": "Tentang Ketaatan kepada Pemimpin",
+      "tersedia": false
+    },
+    {
+      "id": 61,
+      "judul_ar": "فِي الْأَخْذِ مِنَ الْأُمَرَاءِ",
+      "judul_id": "Tentang Mengambil Pemberian dari Penguasa",
+      "tersedia": false
+    },
+    {
+      "id": 62,
+      "judul_ar": "فِي النَّهْيِ عَنِ النَّظَرِ فِي بَيْتِ غَيْرِهِ",
+      "judul_id": "Tentang Larangan Mengintip Rumah Orang Lain",
+      "tersedia": false
+    },
+    {
+      "id": 63,
+      "judul_ar": "فِي النَّهْيِ عَنِ التَّعَرُّضِ لِلتُّهْمَةِ",
+      "judul_id": "Tentang Larangan Menempatkan Diri pada Situasi yang Mencurigakan",
+      "tersedia": false
+    },
+    {
+      "id": 64,
+      "judul_ar": "فِي الرِّفْقِ",
+      "judul_id": "Tentang Kelembutan",
+      "tersedia": false
+    },
+    {
+      "id": 65,
+      "judul_ar": "فِي فَضْلِ الْعَصَا",
+      "judul_id": "Tentang Keutamaan Tongkat",
+      "tersedia": false
+    },
+    {
+      "id": 66,
+      "judul_ar": "فِي زَوَالِ الدُّنْيَا عَنِ الْمُؤْمِنِ",
+      "judul_id": "Tentang Hilangnya Dunia dari Orang Mukmin",
+      "tersedia": false
+    },
+    {
+      "id": 67,
+      "judul_ar": "فِي عَلَامَةِ السَّاعَةِ",
+      "judul_id": "Tentang Tanda-Tanda Hari Kiamat",
+      "tersedia": false
+    },
+    {
+      "id": 68,
+      "judul_ar": "فِي حَدِّ الْكَلَامِ",
+      "judul_id": "Tentang Batasan Berbicara",
+      "tersedia": false
+    },
+    {
+      "id": 69,
+      "judul_ar": "فِي النَّهْيِ عَنِ التَّصَاوِيرِ",
+      "judul_id": "Tentang Larangan Membuat Gambar Makhluk Bernyawa",
+      "tersedia": false
+    },
+    {
+      "id": 70,
+      "judul_ar": "فِي تَزْوِيجِ الزَّانِيَةِ",
+      "judul_id": "Tentang Menikahi Wanita Pezina",
+      "tersedia": false
+    },
+    {
+      "id": 71,
+      "judul_ar": "فِي تَفْضِيلِ الْفَقِيرِ عَلَى الْغَنِيِّ",
+      "judul_id": "Tentang Keutamaan Orang Fakir atas Orang Kaya",
+      "tersedia": false
+    },
+    {
+      "id": 72,
+      "judul_ar": "فِي الِاسْتِدَانَةِ",
+      "judul_id": "Tentang Berutang",
+      "tersedia": false
+    },
+    {
+      "id": 73,
+      "judul_ar": "فِي الْعَزْلِ",
+      "judul_id": "Tentang Azl (Mencegah Kehamilan)",
+      "tersedia": false
+    },
+    {
+      "id": 74,
+      "judul_ar": "فِي الْقَوْلِ فِي عَذَابِ الْمَيِّتِ بِبُكَاءِ أَهْلِهِ",
+      "judul_id": "Tentang Siksa Mayit karena Tangisan Keluarganya",
+      "tersedia": false
+    },
+    {
+      "id": 75,
+      "judul_ar": "فِي الْبُكَاءِ عَلَى الْمَيِّتِ",
+      "judul_id": "Tentang Menangisi Mayit",
+      "tersedia": false
+    },
+    {
+      "id": 76,
+      "judul_ar": "فِي إِكْرَامِ أَهْلِ الْفَضْلِ وَالشَّرَفِ",
+      "judul_id": "Tentang Memuliakan Orang-Orang Berilmu dan Terhormat",
+      "tersedia": false
+    },
+    {
+      "id": 77,
+      "judul_ar": "فِي الْغَيْرَةِ",
+      "judul_id": "Tentang Cemburu",
+      "tersedia": false
+    },
+    {
+      "id": 78,
+      "judul_ar": "فِيمَا جَاءَ فِي السَّخَاءِ وَالْبُخْلِ",
+      "judul_id": "Tentang Kedermawanan dan Kekikiran",
+      "tersedia": false
+    },
+    {
+      "id": 79,
+      "judul_ar": "فِي الشَّفَاعَةِ",
+      "judul_id": "Tentang Syafa'at",
+      "tersedia": false
+    },
+    {
+      "id": 80,
+      "judul_ar": "فِي قَتْلِ الْعَمْدِ",
+      "judul_id": "Tentang Pembunuhan yang Disengaja",
+      "tersedia": false
+    },
+    {
+      "id": 81,
+      "judul_ar": "فِي الْقُبْلَةِ لِلْوَلَدِ الصَّغِيرِ",
+      "judul_id": "Tentang Mencium Anak Kecil",
+      "tersedia": false
+    },
+    {
+      "id": 82,
+      "judul_ar": "فِي ضَرْبِ الدُّفِّ",
+      "judul_id": "Tentang Memukul Rebana",
+      "tersedia": false
+    },
+    {
+      "id": 83,
+      "judul_ar": "فِي الْأَمْرِ بِالْمَعْرُوفِ",
+      "judul_id": "Tentang Amar Ma'ruf",
+      "tersedia": false
+    },
+    {
+      "id": 84,
+      "judul_ar": "فِي النِّكَاحِ",
+      "judul_id": "Tentang Pernikahan",
+      "tersedia": false
+    },
+    {
+      "id": 85,
+      "judul_ar": "فِي الْكَسْبِ",
+      "judul_id": "Tentang Usaha dan Penghasilan",
+      "tersedia": false
+    },
+    {
+      "id": 86,
+      "judul_ar": "فِي الطِّبِّ",
+      "judul_id": "Tentang Pengobatan",
+      "tersedia": false
+    },
+    {
+      "id": 87,
+      "judul_ar": "فِي الِامْتِنَاعِ عَمَّا يَضُرُّ بِالْبَدَنِ مِنَ الْمَأْكُولَاتِ وَغَيْرِهَا",
+      "judul_id": "Tentang Menghindari Makanan dan Hal yang Membahayakan Tubuh",
+      "tersedia": false
+    },
+    {
+      "id": 88,
+      "judul_ar": "فِي الْجِمَاعِ",
+      "judul_id": "Tentang Hubungan Suami Istri",
+      "tersedia": false
+    },
+    {
+      "id": 89,
+      "judul_ar": "فِي دُخُولِ الْحَمَّامِ",
+      "judul_id": "Tentang Masuk Kamar Mandi",
+      "tersedia": false
+    },
+    {
+      "id": 90,
+      "judul_ar": "فِي الْحِجَامَةِ",
+      "judul_id": "Tentang Bekam",
+      "tersedia": false
+    },
+    {
+      "id": 91,
+      "judul_ar": "فِي آدَابِ الْخَلَاءِ",
+      "judul_id": "Tentang Adab Buang Hajat",
+      "tersedia": false
+    },
+    {
+      "id": 92,
+      "judul_ar": "فِي كَرَاهَةِ الْوَحْدَةِ",
+      "judul_id": "Tentang Kemakruhan Menyendiri",
+      "tersedia": false
+    },
+    {
+      "id": 93,
+      "judul_ar": "فِيمَا جَاءَ فِي ذِكْرِ الْحَفَظَةِ",
+      "judul_id": "Tentang Malaikat Penjaga",
+      "tersedia": false
+    },
+    {
+      "id": 94,
+      "judul_ar": "فِي قَتْلِ الْجَرَادِ",
+      "judul_id": "Tentang Membunuh Belalang",
+      "tersedia": false
+    },
+    {
+      "id": 95,
+      "judul_ar": "فِي نَقْشِ الْمَسْجِدِ",
+      "judul_id": "Tentang Menghias Masjid",
+      "tersedia": false
+    },
+    {
+      "id": 96,
+      "judul_ar": "فِي كَرَاهِيَةِ الْبُصَاقِ فِي الْمَسْجِدِ",
+      "judul_id": "Tentang Kemakruhan Meludah di Masjid",
+      "tersedia": false
+    },
+    {
+      "id": 97,
+      "judul_ar": "فِي كَرَاهِيَةِ صَلَاةِ الرَّجُلِ وَهُوَ نَاعِسٌ",
+      "judul_id": "Tentang Kemakruhan Shalat dalam Keadaan Mengantuk",
+      "tersedia": false
+    },
+    {
+      "id": 98,
+      "judul_ar": "فِي الْعِلْمِ وَالْأَدَبِ",
+      "judul_id": "Tentang Ilmu dan Adab",
+      "tersedia": false
+    },
+    {
+      "id": 99,
+      "judul_ar": "فِي الْخَاتَمِ",
+      "judul_id": "Tentang Cincin",
+      "tersedia": false
+    },
+    {
+      "id": 100,
+      "judul_ar": "فِي نَقْشِ الْخَاتَمِ وَالْكِتَابَةِ عَلَيْهِ",
+      "judul_id": "Tentang Ukiran dan Tulisan pada Cincin",
+      "tersedia": false
+    },
+    {
+      "id": 101,
+      "judul_ar": "فِي مَعَارِيضِ الْكَلَامِ",
+      "judul_id": "Tentang Ungkapan Tersirat dalam Perkataan",
+      "tersedia": false
+    },
+    {
+      "id": 102,
+      "judul_ar": "فِي الرِّسَالَةِ",
+      "judul_id": "Tentang Surat-Menyurat",
+      "tersedia": false
+    },
+    {
+      "id": 103,
+      "judul_ar": "مَا قِيلَ فِي الْمِزَاحِ",
+      "judul_id": "Tentang Bercanda",
+      "tersedia": false
+    },
+    {
+      "id": 104,
+      "judul_ar": "فِي الْفَوَائِدِ",
+      "judul_id": "Tentang Faedah-Faedah",
+      "tersedia": false
+    },
+    {
+      "id": 105,
+      "judul_ar": "فِي الْمَرْأَةِ إِذَا كَانَ لَهَا زَوْجَانِ فِي الدُّنْيَا",
+      "judul_id": "Tentang Wanita yang Memiliki Dua Suami di Dunia",
+      "tersedia": false
+    },
+    {
+      "id": 106,
+      "judul_ar": "فِي الْقَوْلِ فِي أَطْفَالِ الْمُشْرِكِينَ",
+      "judul_id": "Tentang Anak-Anak Orang Musyrik",
+      "tersedia": false
+    },
+    {
+      "id": 107,
+      "judul_ar": "فِي ذِكْرِ الْأَنْبِيَاءِ عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ",
+      "judul_id": "Tentang Menyebut Para Nabi Alaihimussalam",
+      "tersedia": false
+    },
+    {
+      "id": 108,
+      "judul_ar": "فِي صِفَةِ مَا خَلَقَ اللهُ تَعَالَى مِنَ الْخَلْقِ",
+      "judul_id": "Tentang Sifat Makhluk Ciptaan Allah Ta'ala",
+      "tersedia": false
+    },
+    {
+      "id": 109,
+      "judul_ar": "فِي بَدْءِ خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ",
+      "judul_id": "Tentang Awal Penciptaan Langit dan Bumi",
+      "tersedia": false
+    },
+    {
+      "id": 110,
+      "judul_ar": "فِي أَسْمَاءِ الْجِنَانِ وَالنِّيرَانِ",
+      "judul_id": "Tentang Nama-Nama Surga dan Neraka",
+      "tersedia": false
+    },
+    {
+      "id": 111,
+      "judul_ar": "فِي نَسَبِ النَّبِيِّ ﷺ وَأَوْلَادِهِ وَأَزْوَاجِهِ",
+      "judul_id": "Tentang Nasab Nabi ﷺ, Anak-Anak, dan Istri-Istrinya",
+      "tersedia": false
+    },
+    {
+      "id": 112,
+      "judul_ar": "فِي أَسْمَاءِ الْخُلَفَاءِ بَعْدَ النَّبِيِّ ﷺ",
+      "judul_id": "Tentang Nama-Nama Khalifah Setelah Nabi ﷺ",
+      "tersedia": false
+    },
+    {
+      "id": 113,
+      "judul_ar": "فِيمَا يُسْتَحَبُّ مِنَ الْأَسْمَاءِ",
+      "judul_id": "Tentang Nama-Nama yang Dianjurkan",
+      "tersedia": false
+    },
+    {
+      "id": 114,
+      "judul_ar": "فِي ذِكْرِ الْأَيَّامِ وَالشُّهُورِ",
+      "judul_id": "Tentang Hari-Hari dan Bulan-Bulan",
+      "tersedia": false
+    },
+    {
+      "id": 115,
+      "judul_ar": "فِي صِفَةِ طَبَائِعِ الْإِنْسَانِ",
+      "judul_id": "Tentang Sifat Watak Manusia",
+      "tersedia": false
+    },
+    {
+      "id": 116,
+      "judul_ar": "فِي السِّبَاحَةِ وَالْفُرُوسِيَّةِ وَالرَّمْيِ",
+      "judul_id": "Tentang Berenang, Berkuda, dan Memanah",
+      "tersedia": false
+    },
+    {
+      "id": 117,
+      "judul_ar": "فِي النَّهْيِ عَنِ اقْتِنَاءِ الْكَلْبِ",
+      "judul_id": "Tentang Larangan Memelihara Anjing",
+      "tersedia": false
+    },
+    {
+      "id": 118,
+      "judul_ar": "فِي الْكَلَامِ فِي أَمْرِ الْمَسْخِ",
+      "judul_id": "Tentang Pembahasan Masalah Penyerupaan (Maskh)",
+      "tersedia": false
+    },
+    {
+      "id": 119,
+      "judul_ar": "فِي الْإِيمَانِ",
+      "judul_id": "Tentang Iman",
+      "tersedia": false
+    },
+    {
+      "id": 120,
+      "judul_ar": "فِي أَنَّ الْإِيمَانَ يَزِيدُ أَمْ لَا",
+      "judul_id": "Tentang Apakah Iman Bertambah atau Tidak",
+      "tersedia": false
+    },
+    {
+      "id": 121,
+      "judul_ar": "فِي أَنَّ الْإِيمَانَ عَمَلٌ أَمْ قَرَارٌ",
+      "judul_id": "Tentang Apakah Iman itu Amal atau Keyakinan",
+      "tersedia": false
+    },
+    {
+      "id": 122,
+      "judul_ar": "فِي أَنَّ الْإِيمَانَ مَخْلُوقٌ أَمْ لَا",
+      "judul_id": "Tentang Apakah Iman itu Makhluk atau Bukan",
+      "tersedia": false
+    },
+    {
+      "id": 123,
+      "judul_ar": "فِي الْكَلَامِ فِي الْقُرْآنِ",
+      "judul_id": "Tentang Pembahasan Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 124,
+      "judul_ar": "فِي الْكَلَامِ فِي الرُّؤْيَةِ",
+      "judul_id": "Tentang Pembahasan Ru'yah (Melihat Allah)",
+      "tersedia": false
+    },
+    {
+      "id": 125,
+      "judul_ar": "فِي الْقَوْلِ فِي الصَّحَابَةِ",
+      "judul_id": "Tentang Pendapat Mengenai Para Sahabat",
+      "tersedia": false
+    },
+    {
+      "id": 126,
+      "judul_ar": "فِي الْقَوْلِ فِي الْقَدَرِ",
+      "judul_id": "Tentang Pendapat Mengenai Takdir",
+      "tersedia": false
+    },
+    {
+      "id": 127,
+      "judul_ar": "فِي الرَّفْضِ",
+      "judul_id": "Tentang Aliran Rafidhah",
+      "tersedia": false
+    },
+    {
+      "id": 128,
+      "judul_ar": "فِيمَن حَضَرَهُ الْعَشَاءُ وَأُقِيمَتِ الصَّلَاةُ",
+      "judul_id": "Tentang Orang yang Sedang Makan Malam Ketika Iqamat Dikumandangkan",
+      "tersedia": false
+    },
+    {
+      "id": 129,
+      "judul_ar": "فِي كَرَاهِيَةِ الدُّخُولِ عَلَى أَهْلِهِ مِنَ السَّفَرِ لَيْلًا",
+      "judul_id": "Tentang Kemakruhan Pulang dari Perjalanan kepada Keluarga di Malam Hari",
+      "tersedia": false
+    },
+    {
+      "id": 130,
+      "judul_ar": "فِي الصَّلَاةِ فِي رَحْلِهِ عِنْدَ الْمَطَرِ",
+      "judul_id": "Tentang Shalat di Tempat Tinggal saat Hujan",
+      "tersedia": false
+    },
+    {
+      "id": 131,
+      "judul_ar": "فِي كَرَاهِيَةِ الْجَرَسِ",
+      "judul_id": "Tentang Kemakruhan Lonceng",
+      "tersedia": false
+    },
+    {
+      "id": 132,
+      "judul_ar": "فِي التَّعْزِيَةِ",
+      "judul_id": "Tentang Takziah",
+      "tersedia": false
+    },
+    {
+      "id": 133,
+      "judul_ar": "فِي الْمُسَابَقَةِ",
+      "judul_id": "Tentang Perlombaan",
+      "tersedia": false
+    },
+    {
+      "id": 134,
+      "judul_ar": "فِي نَثْرِ السُّكَّرِ",
+      "judul_id": "Tentang Menebar Gula",
+      "tersedia": false
+    },
+    {
+      "id": 135,
+      "judul_ar": "فِي الْهَدِيَّةِ وَالْمُكَافَأَةِ بِهَا",
+      "judul_id": "Tentang Hadiah dan Membalasnya",
+      "tersedia": false
+    },
+    {
+      "id": 136,
+      "judul_ar": "فِي تَشْمِيتِ الْعَاطِسِ",
+      "judul_id": "Tentang Mendoakan Orang yang Bersin",
+      "tersedia": false
+    },
+    {
+      "id": 137,
+      "judul_ar": "فِي مُدَارَاةِ النَّاسِ",
+      "judul_id": "Tentang Bersikap Lembut kepada Manusia",
+      "tersedia": false
+    },
+    {
+      "id": 138,
+      "judul_ar": "فِي الْأَمْثَالِ",
+      "judul_id": "Tentang Peribahasa dan Perumpamaan",
+      "tersedia": false
+    },
+    {
+      "id": 139,
+      "judul_ar": "فِي الْعِمَارَةِ وَالْبِنَاءِ",
+      "judul_id": "Tentang Pembangunan dan Konstruksi",
+      "tersedia": false
+    },
+    {
+      "id": 140,
+      "judul_ar": "فِي الْمُعَامَلَةِ مَعَ أَهْلِ الْكُفْرِ",
+      "judul_id": "Tentang Hubungan dengan Orang-Orang Kafir",
+      "tersedia": false
+    },
+    {
+      "id": 141,
+      "judul_ar": "فِيمَا قِيلَ فِي مُبَاكَرَةِ الْغَدَاءِ",
+      "judul_id": "Tentang Menyegerakan Makan Pagi",
+      "tersedia": false
+    },
+    {
+      "id": 142,
+      "judul_ar": "فِي كَلَامِ الْحُكَمَاءِ",
+      "judul_id": "Tentang Ucapan Para Bijaksana",
+      "tersedia": false
+    },
+    {
+      "id": 143,
+      "judul_ar": "فِي الْبَوْلِ فِي حَالِ الْقِيَامِ",
+      "judul_id": "Tentang Buang Air Kecil sambil Berdiri",
+      "tersedia": false
+    },
+    {
+      "id": 144,
+      "judul_ar": "فِي خِصَاءِ الْحَيَوَانِ",
+      "judul_id": "Tentang Pengebirian Hewan",
+      "tersedia": false
+    },
+    {
+      "id": 145,
+      "judul_ar": "فِي السَّمَرِ بَعْدَ الْعِشَاءِ",
+      "judul_id": "Tentang Begadang Setelah Isya",
+      "tersedia": false
+    },
+    {
+      "id": 146,
+      "judul_ar": "فِي عَدَدِ سُوَرِ الْقُرْآنِ",
+      "judul_id": "Tentang Jumlah Surah Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 147,
+      "judul_ar": "فِي عَدَدِ آيَاتِ الْقُرْآنِ وَكَلِمَاتِهِ",
+      "judul_id": "Tentang Jumlah Ayat dan Kata dalam Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 148,
+      "judul_ar": "فِي عَدَدِ حُرُوفِ الْقُرْآنِ",
+      "judul_id": "Tentang Jumlah Huruf dalam Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 149,
+      "judul_ar": "فِي ذِكْرِ أَثْلَاثِ الْقُرْآنِ وَأَرْبَاعِهِ وَأَنْصَافِهِ",
+      "judul_id": "Tentang Sepertiga, Seperempat, dan Setengah Al-Qur'an",
+      "tersedia": false
+    },
+    {
+      "id": 150,
+      "judul_ar": "فِي فَضْلِ الْمُعَلِّمِينَ",
+      "judul_id": "Tentang Keutamaan Para Guru",
+      "tersedia": false
+    },
+    {
+      "id": 151,
+      "judul_ar": "فِي قِلَّةِ الْأَكْلِ",
+      "judul_id": "Tentang Makan Sedikit",
+      "tersedia": false
+    },
+    {
+      "id": 152,
+      "judul_ar": "فِي التَّحِيَّةِ",
+      "judul_id": "Tentang Penghormatan",
+      "tersedia": false
+    },
+    {
+      "id": 153,
+      "judul_ar": "فِيمَا قِيلَ فِي النِّكَاحِ",
+      "judul_id": "Tentang Pandangan Ulama Mengenai Pernikahan",
+      "tersedia": false
+    },
+    {
+      "id": 154,
+      "judul_ar": "فِي ابْتِدَاءِ أَمْرِ النَّبِيِّ ﷺ",
+      "judul_id": "Tentang Awal Mula Perkara Nabi ﷺ",
+      "tersedia": false
+    },
+    {
+      "id": 155,
+      "judul_ar": "فِي هِجْرَةِ النَّبِيِّ ﷺ",
+      "judul_id": "Tentang Hijrah Nabi ﷺ",
+      "tersedia": false
+    },
+    {
+      "id": 156,
+      "judul_ar": "فِي ذِكْرِ مَغَازِي النَّبِيِّ ﷺ",
+      "judul_id": "Tentang Peperangan Nabi ﷺ",
+      "tersedia": false
+    },
+    {
+      "id": 157,
+      "judul_ar": "فِيمَا يُكْرَهُ",
+      "judul_id": "Tentang Hal-Hal yang Dimakruhkan",
+      "tersedia": false
+    },
+    {
+      "id": 158,
+      "judul_ar": "فِي الدَّعَوَاتِ",
+      "judul_id": "Tentang Doa-Doa",
+      "tersedia": false
+    },
+    {
+      "id": 159,
+      "judul_ar": "فِي الدَّعَوَاتِ",
+      "judul_id": "Tentang Doa-Doa (Lanjutan)",
+      "tersedia": false
     }
   ]
 }
