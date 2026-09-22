@@ -1,0 +1,78 @@
+{
+  "babId": 1,
+  "paragrafId": "p1",
+  "title": "Quiz Sharaf Paragraf 1",
+  "description": "Analisis sharaf dari kosakata pada paragraf pertama Bab 1.",
+  "questions": [
+    {
+      "id": "p1-q1",
+      "word": "قال",
+      "displayWord": "قَالَ",
+      "question": "Kata قَالَ termasuk kategori apa?",
+      "options": [
+        "Isim",
+        "Fi'il madhi",
+        "Fi'il mudhari'",
+        "Mashdar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "قَالَ adalah fi'il madhi yang berarti telah berkata."
+    },
+    {
+      "id": "p1-q2",
+      "word": "قال",
+      "displayWord": "قَالَ",
+      "question": "Apa akar kata قَالَ?",
+      "options": [
+        "ق و ل",
+        "ق ل ل",
+        "ق ي ل",
+        "ك و ل"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Akar kata قَالَ adalah ق و ل."
+    },
+    {
+      "id": "p1-q3",
+      "word": "قال",
+      "displayWord": "قَالَ",
+      "question": "Apa fi'il mudhari' dari قَالَ?",
+      "options": [
+        "يَقُولُ",
+        "يَقِيلُ",
+        "يُقَالُ",
+        "يُقَوِّلُ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fi'il mudhari' dari قَالَ adalah يَقُولُ."
+    },
+    {
+      "id": "p1-q4",
+      "word": "الفقيه",
+      "displayWord": "الْفَقِيهُ",
+      "question": "Kata الْفَقِيهُ termasuk jenis isim apa?",
+      "options": [
+        "Isim fa'il",
+        "Isim maf'ul",
+        "Mashdar",
+        "Isim zaman"
+      ],
+      "correctAnswer": 0,
+      "explanation": "الْفَقِيهُ merupakan isim fa'il dari فَقِهَ, bermakna orang yang memahami ilmu agama."
+    },
+    {
+      "id": "p1-q5",
+      "word": "اعلم",
+      "displayWord": "اِعْلَمْ",
+      "question": "Kata اِعْلَمْ dalam konteks nasihat termasuk jenis apa?",
+      "options": [
+        "Fi'il madhi",
+        "Fi'il amr",
+        "Isim jamak",
+        "Mashdar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "اِعْلَمْ adalah fi'il amr, bentuk perintah: 'ketahuilah'."
+    }
+  ]
+}
