@@ -36,3 +36,21 @@ export interface Metadata {
   kitab: KitabMetadata;
   daftar_isi: DaftarIsi[];
 }
+
+export interface QuizQuestion {
+  id: string;
+  word: string;
+  displayWord?: string;
+  question: string;
+  options: string[];
+  correctAnswer: number;
+  explanation?: string;
+}
+
+export interface QuizData {
+  babId: number;
+  paragrafId: string;
+  title: string;
+  description?: string;
+  questions: QuizQuestion[];
+}
