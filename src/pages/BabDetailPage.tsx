@@ -9,7 +9,7 @@ export const BabDetailPage = () => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const { isCompleted, toggleComplete } = useBabProgress();
-  
+
   const [bab, setBab] = useState<BabData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -26,34 +26,27 @@ export const BabDetailPage = () => {
       try {
         setLoading(true);
         setError(null);
-        
+
         const babId = Number(id);
 
-        // Validasi input
-        if (isNaN(babId) || babId < 1) {
+        if (Number.isNaN(babId) || babId < 1) {
           throw new Error(`ID Bab tidak valid: ${id}`);
         }
 
-        console.log(`[BabDetailPage] Loading bab ${babId}...`);
-
-        // Load data bab
         const data = await loadBabData(babId);
-        
-        // Validasi data
+
         if (!data.paragraf || data.paragraf.length === 0) {
           throw new Error('Data bab tidak lengkap atau kosong');
         }
 
         setBab(data);
-        setError(null);
-        
-        console.log(`[BabDetailPage] Successfully loaded bab ${babId}`);
       } catch (err) {
-        const errorMessage = err instanceof Error 
-          ? err.message 
-          : 'Terjadi kesalahan yang tidak diketahui';
-        
-        console.error(`[BabDetailPage] Error:`, err);
+        const errorMessage =
+          err instanceof Error
+            ? err.message
+            : 'Terjadi kesalahan yang tidak diketahui';
+
+        console.error('[BabDetailPage] Error:', err);
         setError(errorMessage);
         setBab(null);
       } finally {
@@ -68,7 +61,6 @@ export const BabDetailPage = () => {
     window.scrollTo(0, 0);
   }, [id]);
 
-  // LOADING STATE
   if (loading) {
     return (
       <div className="center-state">
@@ -78,27 +70,27 @@ export const BabDetailPage = () => {
     );
   }
 
-  // ERROR STATE
   if (error) {
     return (
       <div className="center-state error-state">
         <h2>⚠️ Gagal Memuat Bab</h2>
         <p className="error-message">{error}</p>
-        
+
         <div className="error-details">
           <p className="error-hint">
-            📁 Pastikan file `/public/data/bab/{String(id).padStart(2, '0')}.json` ada
+            Pastikan file data bab tersedia.
           </p>
         </div>
 
         <div className="error-actions">
-          <button 
+          <button
             onClick={() => window.location.reload()}
             className="btn-secondary"
           >
             🔄 Coba Lagi
           </button>
-          <button 
+
+          <button
             onClick={() => navigate('/')}
             className="btn-primary"
           >
@@ -109,12 +101,12 @@ export const BabDetailPage = () => {
     );
   }
 
-  // NO DATA STATE
   if (!bab) {
     return (
       <div className="center-state">
         <p>Data bab tidak ditemukan</p>
-        <button 
+
+        <button
           onClick={() => navigate('/')}
           className="btn-primary"
         >
@@ -130,17 +122,19 @@ export const BabDetailPage = () => {
     <div className="bab-container">
       {/* Top Navigation */}
       <nav className="bab-topnav animate-fade-in-1">
-        <button 
-          className="bab-back" 
+        <button
+          className="bab-back"
           onClick={() => navigate('/')}
           aria-label="Kembali ke beranda"
           title="Kembali ke beranda"
         >
           ← Kembali
         </button>
+
         <span className="bab-navtitle">Bab {bab.id}</span>
-        <button 
-          className="bab-chat-btn" 
+
+        <button
+          className="bab-chat-btn"
           onClick={() => setIsChatOpen(true)}
           aria-label="Buka AI Chat"
           title="Tanya AI tentang bab ini"
@@ -151,9 +145,18 @@ export const BabDetailPage = () => {
 
       {/* Header Bab */}
       <header className="bab-header">
-        <p className="bab-header-label animate-fade-in-2">BAB {bab.id}</p>
-        <h1 className="bab-header-ar animate-fade-in-3">{bab.judul_ar}</h1>
-        <p className="bab-header-id animate-fade-in-4">{bab.judul_id}</p>
+        <p className="bab-header-label animate-fade-in-2">
+          BAB {bab.id}
+        </p>
+
+        <h1 className="bab-header-ar animate-fade-in-3">
+          {bab.judul_ar}
+        </h1>
+
+        <p className="bab-header-id animate-fade-in-4">
+          {bab.judul_id}
+        </p>
+
         <p className="bab-header-count animate-fade-in-5">
           {bab.paragraf.length} paragraf
         </p>
@@ -173,11 +176,18 @@ export const BabDetailPage = () => {
       {/* Content */}
       <div className="bab-content">
         {bab.paragraf.map((p, index) => {
-          const delay = 0.3 + (index * 0.04);
-          
+          const delay = 0.3 + index * 0.04;
+
+          /*
+           * ID quiz menggunakan format p1, p2, p3, dst.
+           * Index array dimulai dari 0, sehingga index + 1
+           * menjadi nomor paragraf untuk quiz.
+           */
+          const quizParagrafId = `p${index + 1}`;
+
           return (
-            <article 
-              key={p.id} 
+            <article
+              key={p.id}
               className="paragraf-card"
               style={{
                 opacity: 0,
@@ -188,51 +198,79 @@ export const BabDetailPage = () => {
               {/* Tag Info */}
               <div className="paragraf-tag">
                 <span className="tag-tipe">
-                  {p.tipe === 'ayat' && 'Ayat Al-Qur\'an'}
+                  {p.tipe === 'ayat' && 'Ayat Al-Qur’an'}
                   {p.tipe === 'hadits' && 'Hadits'}
                   {p.tipe === 'atsar' && 'Atsar'}
                   {p.tipe === 'matan' && 'Matan Kitab'}
                 </span>
+
                 {(p.referensi || p.rawi) && (
                   <span className="tag-meta">
-                    {p.referensi && <span className="tag-meta-text">{p.referensi}</span>}
-                    {p.rawi && <span className="tag-meta-text">{p.rawi}</span>}
+                    {p.referensi && (
+                      <span className="tag-meta-text">
+                        {p.referensi}
+                      </span>
+                    )}
+
+                    {p.rawi && (
+                      <span className="tag-meta-text">
+                        {p.rawi}
+                      </span>
+                    )}
                   </span>
                 )}
               </div>
 
-              {/* Paragraf Number */}
-              <p className="paragraf-number">Paragraf {index + 1}</p>
-              
-              {/* Arabic Text */}
+              {/* Nomor Paragraf */}
+              <p className="paragraf-number">
+                Paragraf {index + 1}
+              </p>
+
+              {/* Teks Arab */}
               <div className="paragraf-text-ar" lang="ar">
                 <p className="paragraf-arab">{p.teks_ar}</p>
               </div>
-              
+
               <div className="paragraf-divider" />
-              
-              {/* Indonesian Translation */}
+
+              {/* Terjemahan Indonesia */}
               <div className="paragraf-text-id" lang="id">
                 <p className="paragraf-terjemah">{p.terjemah}</p>
               </div>
+
+              {/* Tombol Quiz Sharaf */}
+              <button
+                type="button"
+                className="btn-start-quiz"
+                onClick={() =>
+                  navigate(`/bab/${bab.id}/quiz/${quizParagrafId}`)
+                }
+              >
+                <span>✦</span>
+                Mulai Quiz Sharaf
+              </button>
             </article>
           );
         })}
 
         {/* Khulasah */}
         {bab.khulasah && (
-          <section 
+          <section
             className="khulasah-card"
             style={{
               opacity: 0,
               animation: 'fadeIn 0.6s ease forwards',
-              animationDelay: `${0.3 + (bab.paragraf.length * 0.04)}s`,
+              animationDelay: `${0.3 + bab.paragraf.length * 0.04}s`,
             }}
           >
             <div className="khulasah-header">
               <p className="khulasah-eyebrow">Kesimpulan Bab</p>
             </div>
-            <h3 className="khulasah-title">Hikmah & Ringkasan</h3>
+
+            <h3 className="khulasah-title">
+              Hikmah & Ringkasan
+            </h3>
+
             <p className="khulasah-text">{bab.khulasah}</p>
           </section>
         )}
